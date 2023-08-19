@@ -1,0 +1,10 @@
+11:29:46 **** Incremental Build of configuration Debug for project 7-1. AT24C08 ****
+make -j12 all 
+arm-none-eabi-size   7-1.\ AT24C08.elf 
+   text	   data	    bss	    dec	    hex	filename
+  39408	    484	   1892	  41784	   a338	7-1. AT24C08.elf
+Finished building: default.size.stdout
+ 
+
+11:29:46 Build Finished. 0 errors, 0 warnings. (took 300ms)
+

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\hyeon\Desktop\STM32_Workspace\7-2. EEPROM Protocol"/>
+			<item value="C:\Users\hyeon\Desktop\STM32_Workspace\7-1. AT24C08"/>
+			<item value="C:\Users\hyeon\Desktop\STM32_Workspace\6-4. Entering EXC Calibration Mode"/>
+			<item value="C:\Users\hyeon\Desktop\STM32_Workspace\6-3. ESC Callbration And Motor Operation"/>
+			<item value="C:\Users\hyeon\Desktop\STM32_Workspace\6-2. TIM PWM"/>
+			<item value="C:\Users\hyeon\Desktop\STM32_Workspace\4-4. i-Bus Fail-safe"/>
+			<item value="C:\Users\hyeon\Desktop\STM32_Workspace\4-3. i-Bus Pasing"/>
+			<item value="C:\Users\hyeon\Desktop\STM32_Workspace\4-2. i-Bus Checksum"/>
+			<item value="C:\Users\hyeon\Desktop\STM32_Workspace\4-1. FS-iA6B PC Interface"/>
+			<item value="C:\Users\hyeon\Desktop\STM32_Workspace\3-4. UBX Pasing"/>
+			<item value="C:\Users\hyeon\Desktop\STM32_Workspace\3-1. M8N_NMEA"/>
+			<item value="C:\Users\hyeon\Desktop\STM32_Workspace\2-3. LPS22HH"/>
+			<item value="C:\Users\hyeon\Desktop\STM32_Workspace\2-2. ICM20602"/>
+			<item value="C:\Users\hyeon\Desktop\STM32_Workspace\2-1. BNO080"/>
+			<item value="C:\Users\hyeon\Desktop\STM32_Workspace\1-3. Debug UART"/>
+			<item value="C:\Users\hyeon\Desktop\STM32_Workspace\1-2. Debug Buzzer"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+	</section>
+</section>

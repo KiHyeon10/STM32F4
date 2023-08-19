@@ -1,0 +1,976 @@
+2023-07-22 18:37:50,164 [INFO] MainUpdater:2854 - connection check result : 10
+2023-07-22 18:37:50,989 [INFO] McuFinderGlobals:66 - Set McuFinderConnectedMode to true
+2023-07-22 18:37:51,027 [INFO] MultiScanPanel:200 - Auto-refresh data requested => check proxy status ongoing
+2023-07-22 18:37:51,039 [INFO] FinderPluginLoader:95 - Searching for filters in installed packs
+2023-07-22 18:37:53,632 [INFO] LoadUrlFilesThread:185 - End of LoadServerUrlFiles without Thread
+2023-07-22 18:37:53,632 [INFO] DetailPanel:341 - Set advertising image to C:/Users/hyeon/STM32Cube/Repository/\en.prom-stm32h5-mcu-finder.jpg
+2023-07-22 18:38:46,109 [INFO] MainUpdater:2854 - connection check result : 10
+2023-07-22 18:38:46,110 [INFO] MainUpdater:2854 - connection check result : 10
+2023-07-22 18:38:46,185 [INFO] MicroXplorer:468 - Change Database Path : 
+2023-07-22 18:38:46,185 [INFO] MicroXplorer:498 - Change Database Version : DB.6.0.81
+2023-07-22 18:38:46,212 [WARN] ThirdParty:871 - waiting for thirdparty lock release [close project]
+2023-07-22 18:38:46,212 [INFO] ThirdParty:873 - entering critical section [close project]
+2023-07-22 18:38:46,212 [INFO] ThirdParty:883 - exiting critical section [close project]
+2023-07-22 18:38:46,218 [INFO] PinOutPanel:1499 - setPackage(No Configuration,No Configuration)
+2023-07-22 18:38:46,245 [WARN] IpParametersView:150 - Warning: This peripheral hasn't parameters
+2023-07-22 18:38:46,256 [WARN] MainPanel:257 - <html><b><center>Warning: This peripheral has no parameters to be configured<br></b></html>
+2023-07-22 18:38:46,259 [INFO] UtilMem:75 - Begin LoadConfig() Used Memory: 738542360 Bytes (1049624576)
+2023-07-22 18:38:46,259 [INFO] MicroXplorer:468 - Change Database Path : 
+2023-07-22 18:38:46,259 [INFO] MicroXplorer:498 - Change Database Version : DB.6.0.81
+2023-07-22 18:38:46,259 [INFO] OpenFileManager:308 - Change cursor
+2023-07-22 18:38:46,314 [INFO] RulesReader:64 - Compatibility file has been processed (293 Rules)
+2023-07-22 18:38:46,328 [INFO] Mcu:1937 - Initializing MCU STM32F407VETx STM32F407VETx 
+2023-07-22 18:38:46,328 [INFO] Mcu:1950 - No CPN specified => set CPN to STM32F407VET6
+2023-07-22 18:38:48,047 [INFO] Context:659 - Trying to add GPIOservice into a context  which must be forbidden
+2023-07-22 18:38:48,234 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) Unable to find key (Mcu.ThirdPartyNb) in loaded IOC file
+2023-07-22 18:38:48,234 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) Unable to find key (Mcu.PinsNb) in loaded IOC file
+2023-07-22 18:38:48,234 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) Unable to find key (Mcu.IPNb) in loaded IOC file
+2023-07-22 18:38:48,401 [INFO] RtosManager:555 - Registered RTOS mode: class=CMSIS, group=RTOS, mode=CMSIS_V1, owner=FREERTOS
+2023-07-22 18:38:48,401 [INFO] RtosManager:555 - Registered RTOS mode: class=CMSIS, group=RTOS2, mode=CMSIS_V2, owner=FREERTOS
+2023-07-22 18:38:48,401 [INFO] RtosManager:555 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V1, owner=FREERTOS
+2023-07-22 18:38:48,401 [INFO] RtosManager:555 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V2, owner=FREERTOS
+2023-07-22 18:38:48,402 [WARN] ModelIntegratedComponent:184 - Missing modes for component STMicroelectronics:FreeRTOS:0.0.1:STMicroelectronics:RTOS:FreeRTOS:Core:::10.2.0:
+2023-07-22 18:38:48,415 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 18:38:48,415 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 18:38:48,415 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 18:38:48,415 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 18:38:48,415 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 18:38:48,415 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 18:38:48,415 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 18:38:48,416 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 18:38:48,416 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 18:38:48,416 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 18:38:48,416 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 18:38:48,416 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 18:38:48,416 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 18:38:48,416 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 18:38:48,416 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 18:38:48,416 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 18:38:48,416 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 18:38:48,416 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 18:38:48,416 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 18:38:48,416 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 18:38:48,416 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 18:38:48,416 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 18:38:48,417 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 18:38:48,417 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 18:38:48,417 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 18:38:48,417 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 18:38:48,417 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 18:38:48,417 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 18:38:48,417 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 18:38:48,417 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 18:38:48,417 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 18:38:48,417 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 18:38:48,417 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 18:38:48,427 [INFO] ThirdPartyModel:298 - Start build external matchings
+2023-07-22 18:38:48,847 [INFO] ThirdPartyModel:316 - End build external matchings
+2023-07-22 18:38:49,104 [INFO] UtilMem:75 - End LoadConfig() Used Memory: 632314728 Bytes (1049624576)
+2023-07-22 18:38:49,127 [WARN] ThirdParty:833 - waiting for thirdparty lock release [change project]
+2023-07-22 18:38:49,127 [INFO] ThirdParty:835 - entering critical section [change project]
+2023-07-22 18:38:49,127 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ISPU 1.1.0
+2023-07-22 18:38:49,127 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-GNSS1 6.0.0
+2023-07-22 18:38:49,127 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 2.0.0
+2023-07-22 18:38:49,127 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F4 1.1.0
+2023-07-22 18:38:49,127 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics LIBJPEG 8.0.0
+2023-07-22 18:38:49,127 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SMBUS 2.1.0
+2023-07-22 18:38:49,127 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :wolfSSL I-CUBE-wolfSSL 5.6.0
+2023-07-22 18:38:49,127 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 3.0.0
+2023-07-22 18:38:49,127 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-FREERTOS 1.0.1
+2023-07-22 18:38:49,127 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F7 1.1.0
+2023-07-22 18:38:49,127 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 2.0.0
+2023-07-22 18:38:49,127 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 9.6.0
+2023-07-22 18:38:49,127 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-MOTENV1 4.3.2
+2023-07-22 18:38:49,127 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-FLIGHT1 5.0.1
+2023-07-22 18:38:49,127 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALGOBUILD 1.3.0
+2023-07-22 18:38:49,127 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 6.2.4
+2023-07-22 18:38:49,127 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L5 1.1.0
+2023-07-22 18:38:49,127 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FreeRTOS 0.0.1
+2023-07-22 18:38:49,127 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G0 1.1.0
+2023-07-22 18:38:49,127 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :emotas I-CUBE-CANOPEN 1.1.3
+2023-07-22 18:38:49,127 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLEMGR 2.0.0
+2023-07-22 18:38:49,127 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 8.0.1
+2023-07-22 18:38:49,127 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 3.0.0
+2023-07-22 18:38:49,127 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SUBG2 5.0.0
+2023-07-22 18:38:49,127 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics STM32_WPAN 1.0.0
+2023-07-22 18:38:49,127 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.0.3
+2023-07-22 18:38:49,128 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 1.0.0
+2023-07-22 18:38:49,128 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G4 2.0.0
+2023-07-22 18:38:49,128 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.1.0
+2023-07-22 18:38:49,128 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-H7 3.1.0
+2023-07-22 18:38:49,128 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.3.0
+2023-07-22 18:38:49,128 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.3.0
+2023-07-22 18:38:49,128 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-DISPLAY 3.0.0
+2023-07-22 18:38:49,128 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-SIGFOX1 3.2.0
+2023-07-22 18:38:49,128 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics HAL Drivers 0.0.0
+2023-07-22 18:38:49,128 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.16.2
+2023-07-22 18:38:49,128 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.22.0
+2023-07-22 18:38:49,128 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC7 1.0.1
+2023-07-22 18:38:49,128 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.14.1
+2023-07-22 18:38:49,128 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-EEPRMA1 4.1.0
+2023-07-22 18:38:49,128 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :portGmbH I-Cube-SoM-uGOAL 1.1.0
+2023-07-22 18:38:49,128 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALS 1.0.1
+2023-07-22 18:38:49,128 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics ThreadX 1.0.0
+2023-07-22 18:38:49,128 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WB 1.1.0
+2023-07-22 18:38:49,128 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WL 2.0.0
+2023-07-22 18:38:49,128 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :SEGGER I-CUBE-embOS 1.3.1
+2023-07-22 18:38:49,128 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 1.0.0
+2023-07-22 18:38:49,128 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L4 2.0.0
+2023-07-22 18:38:49,128 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics ThreadX 0.0.2
+2023-07-22 18:38:49,128 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :WES I-CUBE-Cesium 1.3.0
+2023-07-22 18:38:49,128 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-ASTRA1 2.0.0
+2023-07-22 18:38:49,128 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.1.2
+2023-07-22 18:38:49,128 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SFXS2LP1 4.0.0
+2023-07-22 18:38:49,128 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE2 3.3.0
+2023-07-22 18:38:49,129 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.2.0
+2023-07-22 18:38:49,129 [INFO] ThirdParty:841 - exiting critical section [change project]
+2023-07-22 18:38:49,283 [INFO] PinOutPanel:1499 - setPackage(No Configuration,No Configuration)
+2023-07-22 18:38:49,284 [INFO] PinOutPanel:1499 - setPackage(STM32F407VETx,LQFP100)
+2023-07-22 18:38:49,517 [INFO] UtilMem:75 - Before build in PCC Used Memory: 640856656 Bytes (1049624576)
+2023-07-22 18:38:49,710 [INFO] UtilMem:75 - After build in PCC Used Memory: 685423184 Bytes (1049624576)
+2023-07-22 18:38:49,728 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 18:38:49,729 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 18:38:49,729 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 18:38:49,729 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 18:38:49,729 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 18:38:49,729 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 18:38:49,729 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 18:38:49,729 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 18:38:49,730 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 18:38:49,730 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 18:38:49,730 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 18:38:49,730 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 18:38:49,730 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 18:38:49,731 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 18:38:49,731 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 18:38:49,731 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 18:38:49,731 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 18:38:49,731 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 18:38:49,731 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 18:38:49,731 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 18:38:49,731 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 18:38:49,731 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 18:38:49,731 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 18:38:49,732 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 18:38:49,766 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 18:38:49,766 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 18:38:49,767 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 18:38:49,767 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 18:38:49,767 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 18:38:49,767 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 18:38:49,767 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 18:38:49,767 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 18:38:49,767 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 18:38:49,767 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 18:38:49,767 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 18:38:49,768 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 18:38:49,768 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 18:38:49,768 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 18:38:49,768 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 18:38:49,768 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 18:38:49,768 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 18:38:49,769 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 18:38:49,769 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 18:38:49,769 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 18:38:49,769 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 18:38:49,769 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 18:38:49,770 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 18:38:49,770 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 18:38:49,770 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 18:38:49,770 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 18:38:49,770 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 18:38:49,771 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 18:38:49,771 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 18:38:49,771 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 18:38:49,771 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 18:38:49,772 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 18:38:49,772 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 18:38:49,772 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 18:38:49,786 [INFO] ApiDbMcu:507 - Load IP Config File for PDM2PCM
+2023-07-22 18:38:49,797 [INFO] CADModel:165 - CPN selected for project levelSTM32F407VET6
+2023-07-22 18:38:49,797 [INFO] CADModel:114 - Register for checkConnection events
+2023-07-22 18:38:49,861 [INFO] OpenFileManager:328 - Restore cursor
+2023-07-22 18:38:50,198 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 780795088 Bytes (1049624576)
+2023-07-22 18:38:50,234 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 803863792 Bytes (1049624576)
+2023-07-22 18:38:50,549 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-07-22 18:38:50,549 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-07-22 18:38:50,550 [INFO] CodeGenerator:793 - code generatio: config db path: C:\ST\STM32CubeIDE_1.12.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.8.1.202304191431\\db\
+2023-07-22 18:38:50,787 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\MXTmpFiles\license.tmp_save
+2023-07-22 18:38:50,922 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\MXTmpFiles\license.tmp
+2023-07-22 18:38:50,955 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Src\stm32f4xx_it.c_save
+2023-07-22 18:38:51,152 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Src\stm32f4xx_it.c
+2023-07-22 18:38:51,159 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Inc\stm32f4xx_it.h_save
+2023-07-22 18:38:51,224 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Inc\stm32f4xx_it.h
+2023-07-22 18:38:51,278 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Src\stm32f4xx_hal_msp.c_save
+2023-07-22 18:38:51,873 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Src\stm32f4xx_hal_msp.c
+2023-07-22 18:38:51,881 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\MXTmpFiles\system.tmp_save
+2023-07-22 18:38:51,934 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\MXTmpFiles\system.tmp
+2023-07-22 18:38:51,951 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Inc\stm32f4xx_hal_conf.h_save
+2023-07-22 18:38:52,065 [INFO] CodeEngine:335 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Inc\stm32f4xx_hal_conf.h
+2023-07-22 18:38:52,106 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Inc\main.h_save
+2023-07-22 18:38:52,245 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Inc\main.h
+2023-07-22 18:38:52,255 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Src\main.c_save
+2023-07-22 18:38:52,364 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Src\main.c
+2023-07-22 18:38:53,030 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 186mS.
+2023-07-22 18:38:53,035 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2023-07-22 18:38:53,411 [INFO] ConfigFileManager:1483 - The Die is : DIE413
+2023-07-22 18:38:53,422 [INFO] ApiDbMcu:507 - Load IP Config File for FATFS
+2023-07-22 18:38:53,445 [INFO] ApiDbMcu:507 - Load IP Config File for FREERTOS
+2023-07-22 18:38:53,452 [INFO] ApiDbMcu:507 - Load IP Config File for LIBJPEG
+2023-07-22 18:38:53,465 [INFO] ApiDbMcu:507 - Load IP Config File for LWIP
+2023-07-22 18:38:53,477 [INFO] ApiDbMcu:507 - Load IP Config File for MBEDTLS
+2023-07-22 18:38:53,489 [INFO] ApiDbMcu:507 - Load IP Config File for USB_DEVICE
+2023-07-22 18:38:53,501 [INFO] ApiDbMcu:507 - Load IP Config File for USB_HOST
+2023-07-22 18:38:56,770 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 3735mS.
+2023-07-22 18:38:56,771 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 1mS.
+2023-07-22 18:38:56,773 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2023-07-22 18:38:57,383 [INFO] McuFinderGlobals:66 - Set McuFinderConnectedMode to true
+2023-07-22 18:38:57,384 [INFO] ApiDb:448 - Save user favorites file C:\Users\hyeon/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2023-07-22 18:38:57,384 [INFO] ApiDb:452 - User favorites MCUs=[]
+2023-07-22 18:44:36,526 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-07-22 18:44:54,649 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 858216992 Bytes (1053818880)
+2023-07-22 18:45:05,206 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-07-22 18:45:09,465 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 612014400 Bytes (1053818880)
+2023-07-22 18:45:12,129 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 759860936 Bytes (1053818880)
+2023-07-22 18:45:12,535 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-07-22 18:45:12,535 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-07-22 18:45:12,535 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8
+2023-07-22 18:45:12,536 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-07-22 18:45:12,536 [INFO] CodeGenerator:793 - code generatio: config db path: C:\ST\STM32CubeIDE_1.12.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.8.1.202304191431\\db\
+2023-07-22 18:45:12,789 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\MXTmpFiles\license.tmp_save
+2023-07-22 18:45:12,943 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\MXTmpFiles\license.tmp
+2023-07-22 18:45:12,987 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Src\gpio.c_save
+2023-07-22 18:45:13,131 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Src\gpio.c
+2023-07-22 18:45:13,142 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Inc\gpio.h_save
+2023-07-22 18:45:13,224 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Inc\gpio.h
+2023-07-22 18:45:13,282 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Src\tim.c_save
+2023-07-22 18:45:13,426 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Src\tim.c
+2023-07-22 18:45:13,435 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Inc\tim.h_save
+2023-07-22 18:45:13,522 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Inc\tim.h
+2023-07-22 18:45:13,540 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Src\stm32f4xx_it.c_save
+2023-07-22 18:45:13,621 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Src\stm32f4xx_it.c
+2023-07-22 18:45:13,626 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Inc\stm32f4xx_it.h_save
+2023-07-22 18:45:13,691 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Inc\stm32f4xx_it.h
+2023-07-22 18:45:13,718 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Src\stm32f4xx_hal_msp.c_save
+2023-07-22 18:45:13,806 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Src\stm32f4xx_hal_msp.c
+2023-07-22 18:45:13,811 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\MXTmpFiles\system.tmp_save
+2023-07-22 18:45:13,863 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\MXTmpFiles\system.tmp
+2023-07-22 18:45:13,883 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Inc\stm32f4xx_hal_conf.h_save
+2023-07-22 18:45:13,972 [INFO] CodeEngine:335 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Inc\stm32f4xx_hal_conf.h
+2023-07-22 18:45:14,015 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Inc\main.h_save
+2023-07-22 18:45:14,106 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Inc\main.h
+2023-07-22 18:45:14,121 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Src\main.c_save
+2023-07-22 18:45:14,219 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Src\main.c
+2023-07-22 18:45:15,107 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 123mS.
+2023-07-22 18:45:15,110 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2023-07-22 18:45:15,469 [INFO] ConfigFileManager:1483 - The Die is : DIE413
+2023-07-22 18:45:16,859 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 1749mS.
+2023-07-22 18:45:16,860 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 1mS.
+2023-07-22 18:45:16,862 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2023-07-22 19:01:24,098 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-07-22 19:01:31,776 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 667191640 Bytes (1053818880)
+2023-07-22 19:01:34,064 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 746883416 Bytes (1053818880)
+2023-07-22 19:01:34,282 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8
+2023-07-22 19:01:34,282 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-07-22 19:01:34,282 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-07-22 19:01:34,282 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8
+2023-07-22 19:01:34,283 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-07-22 19:01:34,284 [INFO] CodeGenerator:793 - code generatio: config db path: C:\ST\STM32CubeIDE_1.12.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.8.1.202304191431\\db\
+2023-07-22 19:01:34,575 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\MXTmpFiles\license.tmp_save
+2023-07-22 19:01:34,753 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\MXTmpFiles\license.tmp
+2023-07-22 19:01:34,782 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Src\gpio.c_save
+2023-07-22 19:01:34,920 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Src\gpio.c
+2023-07-22 19:01:34,934 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Inc\gpio.h_save
+2023-07-22 19:01:35,058 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Inc\gpio.h
+2023-07-22 19:01:35,132 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Src\tim.c_save
+2023-07-22 19:01:35,391 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Src\tim.c
+2023-07-22 19:01:35,395 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Inc\tim.h_save
+2023-07-22 19:01:35,532 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Inc\tim.h
+2023-07-22 19:01:35,553 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Src\stm32f4xx_it.c_save
+2023-07-22 19:01:35,702 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Src\stm32f4xx_it.c
+2023-07-22 19:01:35,705 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Inc\stm32f4xx_it.h_save
+2023-07-22 19:01:35,781 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Inc\stm32f4xx_it.h
+2023-07-22 19:01:35,797 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Src\stm32f4xx_hal_msp.c_save
+2023-07-22 19:01:35,870 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Src\stm32f4xx_hal_msp.c
+2023-07-22 19:01:35,877 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\MXTmpFiles\system.tmp_save
+2023-07-22 19:01:35,933 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\MXTmpFiles\system.tmp
+2023-07-22 19:01:35,954 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Inc\stm32f4xx_hal_conf.h_save
+2023-07-22 19:01:36,059 [INFO] CodeEngine:335 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Inc\stm32f4xx_hal_conf.h
+2023-07-22 19:01:36,097 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Inc\main.h_save
+2023-07-22 19:01:36,230 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Inc\main.h
+2023-07-22 19:01:36,245 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Src\main.c_save
+2023-07-22 19:01:36,405 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Src\main.c
+2023-07-22 19:01:37,116 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 134mS.
+2023-07-22 19:01:37,118 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2023-07-22 19:01:37,546 [INFO] ConfigFileManager:1483 - The Die is : DIE413
+2023-07-22 19:01:39,224 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 2106mS.
+2023-07-22 19:01:39,225 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 1mS.
+2023-07-22 19:01:39,228 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2023-07-22 19:01:59,962 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-07-22 19:02:18,735 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 751098064 Bytes (1058013184)
+2023-07-22 19:02:18,796 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 774166736 Bytes (1058013184)
+2023-07-22 19:02:18,930 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 838656208 Bytes (1058013184)
+2023-07-22 19:02:19,121 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8
+2023-07-22 19:02:19,122 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-07-22 19:02:19,122 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-07-22 19:02:19,122 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8
+2023-07-22 19:02:19,122 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-07-22 19:02:19,122 [INFO] CodeGenerator:793 - code generatio: config db path: C:\ST\STM32CubeIDE_1.12.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.8.1.202304191431\\db\
+2023-07-22 19:02:19,300 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\MXTmpFiles\license.tmp_save
+2023-07-22 19:02:19,438 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\MXTmpFiles\license.tmp
+2023-07-22 19:02:19,461 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Src\gpio.c_save
+2023-07-22 19:02:19,537 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Src\gpio.c
+2023-07-22 19:02:19,542 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Inc\gpio.h_save
+2023-07-22 19:02:19,594 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Inc\gpio.h
+2023-07-22 19:02:19,677 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Src\tim.c_save
+2023-07-22 19:02:19,779 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Src\tim.c
+2023-07-22 19:02:19,783 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Inc\tim.h_save
+2023-07-22 19:02:19,834 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Inc\tim.h
+2023-07-22 19:02:19,852 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Src\stm32f4xx_it.c_save
+2023-07-22 19:02:19,931 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Src\stm32f4xx_it.c
+2023-07-22 19:02:19,936 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Inc\stm32f4xx_it.h_save
+2023-07-22 19:02:19,985 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Inc\stm32f4xx_it.h
+2023-07-22 19:02:20,003 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Src\stm32f4xx_hal_msp.c_save
+2023-07-22 19:02:20,079 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Src\stm32f4xx_hal_msp.c
+2023-07-22 19:02:20,082 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\MXTmpFiles\system.tmp_save
+2023-07-22 19:02:20,127 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\MXTmpFiles\system.tmp
+2023-07-22 19:02:20,142 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Inc\stm32f4xx_hal_conf.h_save
+2023-07-22 19:02:20,232 [INFO] CodeEngine:335 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Inc\stm32f4xx_hal_conf.h
+2023-07-22 19:02:20,268 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Inc\main.h_save
+2023-07-22 19:02:20,332 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Inc\main.h
+2023-07-22 19:02:20,345 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Src\main.c_save
+2023-07-22 19:02:20,408 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Src\main.c
+2023-07-22 19:02:21,031 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 129mS.
+2023-07-22 19:02:21,035 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2023-07-22 19:02:21,432 [INFO] ConfigFileManager:1483 - The Die is : DIE413
+2023-07-22 19:02:22,640 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 1605mS.
+2023-07-22 19:02:22,641 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 1mS.
+2023-07-22 19:02:22,643 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2023-07-22 19:14:57,666 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-07-22 19:15:21,558 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-07-22 19:15:27,828 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 851626112 Bytes (1066401792)
+2023-07-22 19:15:27,886 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 873119872 Bytes (1066401792)
+2023-07-22 19:15:29,539 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 925026432 Bytes (1066401792)
+2023-07-22 19:15:29,779 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8
+2023-07-22 19:15:29,780 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8
+2023-07-22 19:15:29,780 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-07-22 19:15:29,780 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-07-22 19:15:29,780 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8
+2023-07-22 19:15:29,780 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-07-22 19:15:29,781 [INFO] CodeGenerator:793 - code generatio: config db path: C:\ST\STM32CubeIDE_1.12.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.8.1.202304191431\\db\
+2023-07-22 19:15:30,019 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\MXTmpFiles\license.tmp_save
+2023-07-22 19:15:30,477 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\MXTmpFiles\license.tmp
+2023-07-22 19:15:30,507 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Src\gpio.c_save
+2023-07-22 19:15:30,637 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Src\gpio.c
+2023-07-22 19:15:30,648 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Inc\gpio.h_save
+2023-07-22 19:15:30,732 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Inc\gpio.h
+2023-07-22 19:15:30,826 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Src\tim.c_save
+2023-07-22 19:15:31,084 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Src\tim.c
+2023-07-22 19:15:31,095 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Inc\tim.h_save
+2023-07-22 19:15:31,183 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Inc\tim.h
+2023-07-22 19:15:31,199 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Src\stm32f4xx_it.c_save
+2023-07-22 19:15:31,339 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Src\stm32f4xx_it.c
+2023-07-22 19:15:31,348 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Inc\stm32f4xx_it.h_save
+2023-07-22 19:15:31,401 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Inc\stm32f4xx_it.h
+2023-07-22 19:15:31,422 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Src\stm32f4xx_hal_msp.c_save
+2023-07-22 19:15:31,512 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Src\stm32f4xx_hal_msp.c
+2023-07-22 19:15:31,516 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\MXTmpFiles\system.tmp_save
+2023-07-22 19:15:31,562 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\MXTmpFiles\system.tmp
+2023-07-22 19:15:31,580 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Inc\stm32f4xx_hal_conf.h_save
+2023-07-22 19:15:31,768 [INFO] CodeEngine:335 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Inc\stm32f4xx_hal_conf.h
+2023-07-22 19:15:31,826 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Inc\main.h_save
+2023-07-22 19:15:31,946 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Inc\main.h
+2023-07-22 19:15:31,959 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Src\main.c_save
+2023-07-22 19:15:32,161 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Src\main.c
+2023-07-22 19:15:32,952 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 180mS.
+2023-07-22 19:15:32,956 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2023-07-22 19:15:33,378 [INFO] ConfigFileManager:1483 - The Die is : DIE413
+2023-07-22 19:15:35,092 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 2137mS.
+2023-07-22 19:15:35,092 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2023-07-22 19:15:35,096 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2023-07-22 19:48:53,782 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-07-22 19:49:00,776 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 709677592 Bytes (1068498944)
+2023-07-22 19:49:00,848 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 731570528 Bytes (1068498944)
+2023-07-22 19:49:02,218 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 807195160 Bytes (1068498944)
+2023-07-22 19:49:02,424 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8
+2023-07-22 19:49:02,424 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8
+2023-07-22 19:49:02,424 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-07-22 19:49:02,424 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-07-22 19:49:02,425 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8
+2023-07-22 19:49:02,425 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-07-22 19:49:02,426 [INFO] CodeGenerator:793 - code generatio: config db path: C:\ST\STM32CubeIDE_1.12.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.8.1.202304191431\\db\
+2023-07-22 19:49:02,805 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\MXTmpFiles\license.tmp_save
+2023-07-22 19:49:02,973 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\MXTmpFiles\license.tmp
+2023-07-22 19:49:03,037 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Src\gpio.c_save
+2023-07-22 19:49:03,202 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Src\gpio.c
+2023-07-22 19:49:03,212 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Inc\gpio.h_save
+2023-07-22 19:49:03,332 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Inc\gpio.h
+2023-07-22 19:49:03,435 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Src\tim.c_save
+2023-07-22 19:49:03,605 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Src\tim.c
+2023-07-22 19:49:03,660 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Inc\tim.h_save
+2023-07-22 19:49:03,744 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Inc\tim.h
+2023-07-22 19:49:03,777 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Src\stm32f4xx_it.c_save
+2023-07-22 19:49:04,035 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Src\stm32f4xx_it.c
+2023-07-22 19:49:04,044 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Inc\stm32f4xx_it.h_save
+2023-07-22 19:49:04,113 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Inc\stm32f4xx_it.h
+2023-07-22 19:49:04,146 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Src\stm32f4xx_hal_msp.c_save
+2023-07-22 19:49:04,246 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Src\stm32f4xx_hal_msp.c
+2023-07-22 19:49:04,258 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\MXTmpFiles\system.tmp_save
+2023-07-22 19:49:04,313 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\MXTmpFiles\system.tmp
+2023-07-22 19:49:04,337 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Inc\stm32f4xx_hal_conf.h_save
+2023-07-22 19:49:04,430 [INFO] CodeEngine:335 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Inc\stm32f4xx_hal_conf.h
+2023-07-22 19:49:04,477 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Inc\main.h_save
+2023-07-22 19:49:04,566 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Inc\main.h
+2023-07-22 19:49:04,587 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Src\main.c_save
+2023-07-22 19:49:04,697 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Src\main.c
+2023-07-22 19:49:05,497 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 174mS.
+2023-07-22 19:49:05,499 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2023-07-22 19:49:05,970 [INFO] ConfigFileManager:1483 - The Die is : DIE413
+2023-07-22 19:49:07,563 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 2064mS.
+2023-07-22 19:49:07,564 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 1mS.
+2023-07-22 19:49:07,566 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2023-07-22 19:53:07,120 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-07-22 20:35:32,169 [INFO] MainUpdater:2854 - connection check result : 10
+2023-07-22 20:35:32,257 [INFO] McuFinderGlobals:66 - Set McuFinderConnectedMode to true
+2023-07-22 20:35:32,362 [INFO] MultiScanPanel:200 - Auto-refresh data requested => check proxy status ongoing
+2023-07-22 20:35:32,362 [INFO] FinderPluginLoader:95 - Searching for filters in installed packs
+2023-07-22 20:35:33,065 [INFO] LoadUrlFilesThread:185 - End of LoadServerUrlFiles without Thread
+2023-07-22 20:35:33,065 [INFO] DetailPanel:341 - Set advertising image to C:/Users/hyeon/STM32Cube/Repository/\en.prom-stm32h5-mcu-finder.jpg
+2023-07-22 20:36:42,658 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 723912736 Bytes (1069547520)
+2023-07-22 20:36:42,710 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 746858872 Bytes (1069547520)
+2023-07-22 20:36:45,929 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 719287664 Bytes (1069547520)
+2023-07-22 20:36:46,101 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8
+2023-07-22 20:36:46,101 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8
+2023-07-22 20:36:46,101 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-07-22 20:36:46,101 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-07-22 20:36:46,101 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8
+2023-07-22 20:36:46,101 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-07-22 20:36:46,103 [INFO] CodeGenerator:793 - code generatio: config db path: C:\ST\STM32CubeIDE_1.12.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.8.1.202304191431\\db\
+2023-07-22 20:36:46,267 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\MXTmpFiles\license.tmp_save
+2023-07-22 20:36:46,473 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\MXTmpFiles\license.tmp
+2023-07-22 20:36:46,493 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Src\gpio.c_save
+2023-07-22 20:36:46,604 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Src\gpio.c
+2023-07-22 20:36:46,609 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Inc\gpio.h_save
+2023-07-22 20:36:46,690 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Inc\gpio.h
+2023-07-22 20:36:46,741 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Src\tim.c_save
+2023-07-22 20:36:46,875 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Src\tim.c
+2023-07-22 20:36:46,886 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Inc\tim.h_save
+2023-07-22 20:36:46,936 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Inc\tim.h
+2023-07-22 20:36:46,957 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Src\stm32f4xx_it.c_save
+2023-07-22 20:36:47,178 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Src\stm32f4xx_it.c
+2023-07-22 20:36:47,183 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Inc\stm32f4xx_it.h_save
+2023-07-22 20:36:47,235 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Inc\stm32f4xx_it.h
+2023-07-22 20:36:47,254 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Src\stm32f4xx_hal_msp.c_save
+2023-07-22 20:36:47,327 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Src\stm32f4xx_hal_msp.c
+2023-07-22 20:36:47,329 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\MXTmpFiles\system.tmp_save
+2023-07-22 20:36:47,371 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\MXTmpFiles\system.tmp
+2023-07-22 20:36:47,383 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Inc\stm32f4xx_hal_conf.h_save
+2023-07-22 20:36:47,468 [INFO] CodeEngine:335 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Inc\stm32f4xx_hal_conf.h
+2023-07-22 20:36:47,507 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Inc\main.h_save
+2023-07-22 20:36:47,569 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Inc\main.h
+2023-07-22 20:36:47,581 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Src\main.c_save
+2023-07-22 20:36:47,658 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\Servo Test\Core\Src\main.c
+2023-07-22 20:36:48,226 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 131mS.
+2023-07-22 20:36:48,228 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2023-07-22 20:36:48,481 [INFO] ConfigFileManager:1483 - The Die is : DIE413
+2023-07-22 20:36:49,554 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 1326mS.
+2023-07-22 20:36:49,554 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2023-07-22 20:36:49,556 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2023-07-22 20:36:50,010 [INFO] MainUpdater:2854 - connection check result : 10
+2023-07-22 20:36:50,010 [INFO] MainUpdater:2854 - connection check result : 10
+2023-07-22 20:36:50,073 [INFO] MicroXplorer:468 - Change Database Path : 
+2023-07-22 20:36:50,073 [INFO] MicroXplorer:498 - Change Database Version : DB.6.0.81
+2023-07-22 20:36:50,091 [WARN] ThirdParty:871 - waiting for thirdparty lock release [close project]
+2023-07-22 20:36:50,091 [INFO] ThirdParty:873 - entering critical section [close project]
+2023-07-22 20:36:50,091 [INFO] ThirdParty:883 - exiting critical section [close project]
+2023-07-22 20:36:50,093 [INFO] PinOutPanel:1499 - setPackage(No Configuration,No Configuration)
+2023-07-22 20:36:50,098 [WARN] IpParametersView:150 - Warning: This peripheral hasn't parameters
+2023-07-22 20:36:50,099 [WARN] MainPanel:257 - <html><b><center>Warning: This peripheral has no parameters to be configured<br></b></html>
+2023-07-22 20:36:50,101 [INFO] UtilMem:75 - Begin LoadConfig() Used Memory: 886112464 Bytes (1070596096)
+2023-07-22 20:36:50,101 [INFO] MicroXplorer:468 - Change Database Path : 
+2023-07-22 20:36:50,101 [INFO] MicroXplorer:498 - Change Database Version : DB.6.0.81
+2023-07-22 20:36:50,101 [INFO] OpenFileManager:308 - Change cursor
+2023-07-22 20:36:50,128 [INFO] RulesReader:64 - Compatibility file has been processed (293 Rules)
+2023-07-22 20:36:50,156 [INFO] Mcu:1937 - Initializing MCU STM32F407VETx STM32F407VETx 
+2023-07-22 20:36:50,156 [INFO] Mcu:1950 - No CPN specified => set CPN to STM32F407VET6
+2023-07-22 20:36:51,693 [INFO] Context:659 - Trying to add GPIOservice into a context  which must be forbidden
+2023-07-22 20:36:51,978 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) Unable to find key (Mcu.ThirdPartyNb) in loaded IOC file
+2023-07-22 20:36:51,978 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) Unable to find key (Mcu.PinsNb) in loaded IOC file
+2023-07-22 20:36:51,978 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) Unable to find key (Mcu.IPNb) in loaded IOC file
+2023-07-22 20:36:52,256 [INFO] RtosManager:555 - Registered RTOS mode: class=CMSIS, group=RTOS, mode=CMSIS_V1, owner=FREERTOS
+2023-07-22 20:36:52,256 [INFO] RtosManager:555 - Registered RTOS mode: class=CMSIS, group=RTOS2, mode=CMSIS_V2, owner=FREERTOS
+2023-07-22 20:36:52,256 [INFO] RtosManager:555 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V1, owner=FREERTOS
+2023-07-22 20:36:52,256 [INFO] RtosManager:555 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V2, owner=FREERTOS
+2023-07-22 20:36:52,257 [WARN] ModelIntegratedComponent:184 - Missing modes for component STMicroelectronics:FreeRTOS:0.0.1:STMicroelectronics:RTOS:FreeRTOS:Core:::10.2.0:
+2023-07-22 20:36:52,270 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 20:36:52,271 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 20:36:52,271 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 20:36:52,271 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 20:36:52,271 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 20:36:52,271 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 20:36:52,271 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 20:36:52,271 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 20:36:52,271 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 20:36:52,271 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 20:36:52,271 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 20:36:52,271 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 20:36:52,271 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 20:36:52,271 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 20:36:52,271 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 20:36:52,271 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 20:36:52,271 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 20:36:52,271 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 20:36:52,271 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 20:36:52,272 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 20:36:52,272 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 20:36:52,272 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 20:36:52,272 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 20:36:52,272 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 20:36:52,272 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 20:36:52,272 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 20:36:52,272 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 20:36:52,272 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 20:36:52,272 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 20:36:52,272 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 20:36:52,272 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 20:36:52,272 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 20:36:52,272 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-07-22 20:36:52,283 [INFO] ThirdPartyModel:298 - Start build external matchings
+2023-07-22 20:36:52,786 [INFO] ThirdPartyModel:316 - End build external matchings
+2023-07-22 20:36:53,095 [INFO] UtilMem:75 - End LoadConfig() Used Memory: 802525456 Bytes (1071644672)
+2023-07-22 20:36:53,126 [WARN] ThirdParty:833 - waiting for thirdparty lock release [change project]
+2023-07-22 20:36:53,126 [INFO] ThirdParty:835 - entering critical section [change project]
+2023-07-22 20:36:53,126 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ISPU 1.1.0
+2023-07-22 20:36:53,126 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-GNSS1 6.0.0
+2023-07-22 20:36:53,126 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 2.0.0
+2023-07-22 20:36:53,126 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F4 1.1.0
+2023-07-22 20:36:53,126 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics LIBJPEG 8.0.0
+2023-07-22 20:36:53,127 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SMBUS 2.1.0
+2023-07-22 20:36:53,127 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :wolfSSL I-CUBE-wolfSSL 5.6.0
+2023-07-22 20:36:53,127 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 3.0.0
+2023-07-22 20:36:53,127 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-FREERTOS 1.0.1
+2023-07-22 20:36:53,127 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F7 1.1.0
+2023-07-22 20:36:53,127 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 2.0.0
+2023-07-22 20:36:53,127 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 9.6.0
+2023-07-22 20:36:53,127 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-MOTENV1 4.3.2
+2023-07-22 20:36:53,127 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-FLIGHT1 5.0.1
+2023-07-22 20:36:53,127 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALGOBUILD 1.3.0
+2023-07-22 20:36:53,127 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 6.2.4
+2023-07-22 20:36:53,127 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L5 1.1.0
+2023-07-22 20:36:53,127 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FreeRTOS 0.0.1
+2023-07-22 20:36:53,127 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G0 1.1.0
+2023-07-22 20:36:53,127 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :emotas I-CUBE-CANOPEN 1.1.3
+2023-07-22 20:36:53,127 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLEMGR 2.0.0
+2023-07-22 20:36:53,128 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 8.0.1
+2023-07-22 20:36:53,128 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 3.0.0
+2023-07-22 20:36:53,128 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SUBG2 5.0.0
+2023-07-22 20:36:53,128 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics STM32_WPAN 1.0.0
+2023-07-22 20:36:53,128 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.0.3
+2023-07-22 20:36:53,128 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 1.0.0
+2023-07-22 20:36:53,128 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G4 2.0.0
+2023-07-22 20:36:53,128 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.1.0
+2023-07-22 20:36:53,128 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-H7 3.1.0
+2023-07-22 20:36:53,128 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.3.0
+2023-07-22 20:36:53,128 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.3.0
+2023-07-22 20:36:53,128 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-DISPLAY 3.0.0
+2023-07-22 20:36:53,128 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-SIGFOX1 3.2.0
+2023-07-22 20:36:53,128 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics HAL Drivers 0.0.0
+2023-07-22 20:36:53,128 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.16.2
+2023-07-22 20:36:53,128 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.22.0
+2023-07-22 20:36:53,128 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC7 1.0.1
+2023-07-22 20:36:53,128 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.14.1
+2023-07-22 20:36:53,128 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-EEPRMA1 4.1.0
+2023-07-22 20:36:53,128 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :portGmbH I-Cube-SoM-uGOAL 1.1.0
+2023-07-22 20:36:53,128 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALS 1.0.1
+2023-07-22 20:36:53,128 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics ThreadX 1.0.0
+2023-07-22 20:36:53,128 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WB 1.1.0
+2023-07-22 20:36:53,128 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WL 2.0.0
+2023-07-22 20:36:53,128 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :SEGGER I-CUBE-embOS 1.3.1
+2023-07-22 20:36:53,128 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 1.0.0
+2023-07-22 20:36:53,128 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L4 2.0.0
+2023-07-22 20:36:53,128 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics ThreadX 0.0.2
+2023-07-22 20:36:53,129 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :WES I-CUBE-Cesium 1.3.0
+2023-07-22 20:36:53,129 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-ASTRA1 2.0.0
+2023-07-22 20:36:53,129 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.1.2
+2023-07-22 20:36:53,129 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SFXS2LP1 4.0.0
+2023-07-22 20:36:53,129 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE2 3.3.0
+2023-07-22 20:36:53,129 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.2.0
+2023-07-22 20:36:53,129 [INFO] ThirdParty:841 - exiting critical section [change project]
+2023-07-22 20:36:53,291 [INFO] PinOutPanel:1499 - setPackage(No Configuration,No Configuration)
+2023-07-22 20:36:53,293 [INFO] PinOutPanel:1499 - setPackage(STM32F407VETx,LQFP100)
+2023-07-22 20:36:53,507 [INFO] UtilMem:75 - Before build in PCC Used Memory: 795180704 Bytes (1071644672)
+2023-07-22 20:36:53,743 [INFO] UtilMem:75 - After build in PCC Used Memory: 839747232 Bytes (1071644672)
+2023-07-22 20:36:53,768 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 20:36:53,768 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 20:36:53,768 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 20:36:53,768 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 20:36:53,768 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 20:36:53,768 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 20:36:53,768 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 20:36:53,769 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 20:36:53,769 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 20:36:53,769 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 20:36:53,769 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 20:36:53,769 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 20:36:53,769 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 20:36:53,769 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 20:36:53,769 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 20:36:53,769 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 20:36:53,769 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 20:36:53,769 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 20:36:53,769 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 20:36:53,769 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 20:36:53,770 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 20:36:53,770 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 20:36:53,770 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 20:36:53,770 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 20:36:53,770 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 20:36:53,770 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 20:36:53,770 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 20:36:53,770 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 20:36:53,771 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 20:36:53,771 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 20:36:53,771 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 20:36:53,771 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 20:36:53,771 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 20:36:53,771 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 20:36:53,771 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 20:36:53,772 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 20:36:53,772 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 20:36:53,772 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 20:36:53,772 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 20:36:53,772 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 20:36:53,772 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 20:36:53,773 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 20:36:53,773 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 20:36:53,773 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 20:36:53,773 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 20:36:53,773 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 20:36:53,773 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 20:36:53,773 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 20:36:53,774 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 20:36:53,774 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 20:36:53,774 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 20:36:53,774 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 20:36:53,775 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 20:36:53,775 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 20:36:53,775 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 20:36:53,776 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 20:36:53,776 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 20:36:53,776 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-07-22 20:36:53,791 [INFO] ApiDbMcu:507 - Load IP Config File for PDM2PCM
+2023-07-22 20:36:53,806 [INFO] CADModel:165 - CPN selected for project levelSTM32F407VET6
+2023-07-22 20:36:53,806 [INFO] CADModel:114 - Register for checkConnection events
+2023-07-22 20:36:53,865 [INFO] OpenFileManager:328 - Restore cursor
+2023-07-22 20:36:54,222 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 710585232 Bytes (1071644672)
+2023-07-22 20:36:54,275 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 689178000 Bytes (1071644672)
+2023-07-22 20:36:54,497 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-07-22 20:36:54,497 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-07-22 20:36:54,498 [INFO] CodeGenerator:793 - code generatio: config db path: C:\ST\STM32CubeIDE_1.12.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.8.1.202304191431\\db\
+2023-07-22 20:36:54,666 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\ADCDMA Test\MXTmpFiles\license.tmp_save
+2023-07-22 20:36:54,761 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\ADCDMA Test\MXTmpFiles\license.tmp
+2023-07-22 20:36:54,772 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\ADCDMA Test\Core\Src\stm32f4xx_it.c_save
+2023-07-22 20:36:54,933 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\ADCDMA Test\Core\Src\stm32f4xx_it.c
+2023-07-22 20:36:54,936 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\ADCDMA Test\Core\Inc\stm32f4xx_it.h_save
+2023-07-22 20:36:55,005 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\ADCDMA Test\Core\Inc\stm32f4xx_it.h
+2023-07-22 20:36:55,069 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\ADCDMA Test\Core\Src\stm32f4xx_hal_msp.c_save
+2023-07-22 20:36:55,199 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\ADCDMA Test\Core\Src\stm32f4xx_hal_msp.c
+2023-07-22 20:36:55,202 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\ADCDMA Test\MXTmpFiles\system.tmp_save
+2023-07-22 20:36:55,251 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\ADCDMA Test\MXTmpFiles\system.tmp
+2023-07-22 20:36:55,260 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\ADCDMA Test\Core\Inc\stm32f4xx_hal_conf.h_save
+2023-07-22 20:36:55,379 [INFO] CodeEngine:335 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\ADCDMA Test\Core\Inc\stm32f4xx_hal_conf.h
+2023-07-22 20:36:55,415 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\ADCDMA Test\Core\Inc\main.h_save
+2023-07-22 20:36:55,523 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\ADCDMA Test\Core\Inc\main.h
+2023-07-22 20:36:55,525 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\ADCDMA Test\Core\Src\main.c_save
+2023-07-22 20:36:55,663 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\ADCDMA Test\Core\Src\main.c
+2023-07-22 20:36:56,313 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 104mS.
+2023-07-22 20:36:56,317 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2023-07-22 20:36:56,628 [INFO] ConfigFileManager:1483 - The Die is : DIE413
+2023-07-22 20:36:56,639 [INFO] ApiDbMcu:507 - Load IP Config File for FATFS
+2023-07-22 20:36:56,708 [INFO] ApiDbMcu:507 - Load IP Config File for FREERTOS
+2023-07-22 20:36:56,720 [INFO] ApiDbMcu:507 - Load IP Config File for LIBJPEG
+2023-07-22 20:36:56,741 [INFO] ApiDbMcu:507 - Load IP Config File for LWIP
+2023-07-22 20:36:56,770 [INFO] ApiDbMcu:507 - Load IP Config File for MBEDTLS
+2023-07-22 20:36:56,783 [INFO] ApiDbMcu:507 - Load IP Config File for USB_DEVICE
+2023-07-22 20:36:56,795 [INFO] ApiDbMcu:507 - Load IP Config File for USB_HOST
+2023-07-22 20:36:59,496 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 3179mS.
+2023-07-22 20:36:59,497 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 1mS.
+2023-07-22 20:36:59,499 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2023-07-22 20:37:00,062 [INFO] McuFinderGlobals:66 - Set McuFinderConnectedMode to true
+2023-07-22 20:37:00,063 [INFO] ApiDb:448 - Save user favorites file C:\Users\hyeon/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2023-07-22 20:37:00,063 [INFO] ApiDb:452 - User favorites MCUs=[]
+2023-07-22 20:38:41,503 [INFO] ParamManager:886 - [Generic UI] PropertyChangeEvent: TAB_STATUS_CHANGED , "dont care", "never mind"
+2023-07-22 20:38:41,533 [INFO] ParamManager:886 - [Generic UI] PropertyChangeEvent: TAB_STATUS_CHANGED , "dont care", "never mind"
+2023-07-22 20:38:41,540 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:41,557 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:41,558 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:41,558 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:41,558 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:41,559 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:41,560 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:41,560 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:41,560 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:41,560 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:41,560 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:41,560 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:41,560 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:41,560 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:41,560 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:41,576 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:41,698 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-07-22 20:38:41,807 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-07-22 20:38:41,857 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:41,857 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:41,857 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:41,858 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:41,858 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:41,858 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:41,858 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:41,858 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:41,858 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:41,858 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:41,859 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:41,859 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:41,859 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:41,859 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:41,889 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:41,920 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:41,920 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:41,921 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:41,921 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:41,921 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:41,921 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:41,921 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:41,921 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:41,921 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:41,921 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:41,921 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:41,921 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:41,921 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:41,922 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:41,967 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:45,834 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:45,834 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:45,834 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:45,834 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:45,835 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:45,835 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:45,835 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:45,835 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:45,835 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:45,835 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:45,835 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:45,835 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:45,835 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:45,835 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:45,853 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:45,888 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:45,888 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:45,888 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:45,888 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:45,888 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:45,888 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:45,889 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:45,889 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:45,889 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:45,889 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:45,889 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:45,889 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:45,889 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:45,889 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:45,917 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:46,025 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:46,025 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:46,025 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:46,025 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:46,025 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:46,025 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:46,025 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:46,025 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:46,025 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:46,026 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:46,026 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:46,026 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:46,026 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:46,026 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:46,060 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:46,132 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:46,134 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:46,134 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:46,134 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:46,134 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:46,135 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:46,135 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:46,135 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:46,135 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:46,135 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:46,135 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:46,137 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:46,137 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:46,137 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:46,183 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:51,077 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:51,077 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:51,077 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:51,077 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:51,077 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:51,077 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:51,077 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:51,078 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:51,078 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:51,078 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:51,078 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:51,078 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:51,078 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:51,078 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:51,098 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:51,119 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:51,119 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:51,119 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:51,119 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:51,119 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:51,119 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:51,119 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:51,119 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:51,119 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:51,119 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:51,119 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:51,119 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:51,119 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:51,120 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:51,145 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:51,224 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:51,224 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:51,225 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:51,226 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:51,226 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:51,226 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:51,226 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:51,226 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:51,226 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:51,226 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:51,226 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:51,234 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:51,234 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:51,234 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:51,280 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:51,316 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:51,316 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:51,316 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:51,316 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:51,316 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:51,316 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:51,316 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:51,316 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:51,316 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:51,316 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:51,316 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:51,316 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:51,316 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:51,316 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:51,348 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:52,318 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:52,318 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:52,318 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:52,318 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:52,318 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:52,318 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:52,318 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:52,318 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:52,318 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:52,318 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:52,318 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:52,318 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:52,318 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:52,318 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:52,338 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:52,360 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:52,361 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:52,361 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:52,361 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:52,361 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:52,361 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:52,361 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:52,361 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:52,361 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:52,361 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:52,361 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:52,362 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:52,362 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:52,362 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:52,388 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:52,478 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:52,478 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:52,478 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:52,478 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:52,478 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:52,478 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:52,478 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:52,479 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:52,479 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:52,479 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:52,479 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:52,479 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:52,479 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:52,479 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:52,507 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:52,527 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:52,527 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:52,528 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:52,528 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:52,528 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:52,528 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:52,528 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:52,528 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:52,528 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:52,528 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:52,528 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:52,528 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:52,528 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:52,528 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:38:52,551 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:40:42,621 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:40:42,626 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:40:42,626 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:40:42,626 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:40:42,626 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:40:42,627 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:40:42,627 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:40:42,628 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:40:42,628 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:40:42,628 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:40:42,628 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:40:42,628 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:40:42,628 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:40:42,628 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:40:42,642 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:40:42,657 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:40:42,659 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:40:42,659 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:40:42,659 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:40:42,659 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:40:42,659 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:40:42,662 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:40:42,662 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:40:42,662 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:40:42,662 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:40:42,662 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:40:42,662 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:40:42,662 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:40:42,663 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:40:42,674 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:40:42,704 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:40:42,704 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:40:42,704 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:40:42,704 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:40:42,704 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:40:42,704 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:40:42,704 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:40:42,704 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:40:42,704 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:40:42,704 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:40:42,706 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:40:42,706 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:40:42,706 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:40:42,706 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-07-22 20:40:42,723 [INFO] ADCParametersView:116 -                Rank 1 : false

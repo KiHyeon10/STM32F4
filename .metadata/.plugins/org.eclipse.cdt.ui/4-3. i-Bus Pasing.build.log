@@ -1,0 +1,10 @@
+01:45:19 **** Incremental Build of configuration Debug for project 4-3. i-Bus Pasing ****
+make -j12 all 
+arm-none-eabi-size   4-3.\ i-Bus\ Pasing.elf 
+   text	   data	    bss	    dec	    hex	filename
+  34176	    484	   1836	  36496	   8e90	4-3. i-Bus Pasing.elf
+Finished building: default.size.stdout
+ 
+
+01:45:19 Build Finished. 0 errors, 0 warnings. (took 294ms)
+

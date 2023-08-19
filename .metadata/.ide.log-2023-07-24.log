@@ -1,0 +1,38 @@
+2023-07-24 04:05:43,361 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 652997592 Bytes (1073741824)
+2023-07-24 04:05:53,104 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 675544024 Bytes (1073741824)
+2023-07-24 13:03:10,874 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 612573800 Bytes (1073741824)
+2023-07-24 13:03:13,390 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: ADC
+2023-07-24 13:03:13,390 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-07-24 13:03:13,390 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-07-24 13:03:13,390 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-07-24 13:03:13,392 [INFO] CodeGenerator:793 - code generatio: config db path: C:\ST\STM32CubeIDE_1.12.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.8.1.202304191431\\db\
+2023-07-24 13:03:14,709 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\ADCDMA Test\MXTmpFiles\license.tmp_save
+2023-07-24 13:03:15,453 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\ADCDMA Test\MXTmpFiles\license.tmp
+2023-07-24 13:03:16,206 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\ADCDMA Test\Core\Src\gpio.c_save
+2023-07-24 13:03:16,751 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\ADCDMA Test\Core\Src\gpio.c
+2023-07-24 13:03:16,842 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\ADCDMA Test\Core\Inc\gpio.h_save
+2023-07-24 13:03:20,298 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\ADCDMA Test\Core\Inc\gpio.h
+2023-07-24 13:03:20,955 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\ADCDMA Test\Core\Src\adc.c_save
+2023-07-24 13:03:22,321 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\ADCDMA Test\Core\Src\adc.c
+2023-07-24 13:03:22,357 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\ADCDMA Test\Core\Inc\adc.h_save
+2023-07-24 13:03:22,434 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\ADCDMA Test\Core\Inc\adc.h
+2023-07-24 13:03:22,541 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\ADCDMA Test\Core\Src\stm32f4xx_it.c_save
+2023-07-24 13:03:23,160 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\ADCDMA Test\Core\Src\stm32f4xx_it.c
+2023-07-24 13:03:23,170 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\ADCDMA Test\Core\Inc\stm32f4xx_it.h_save
+2023-07-24 13:03:23,248 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\ADCDMA Test\Core\Inc\stm32f4xx_it.h
+2023-07-24 13:03:23,328 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\ADCDMA Test\Core\Src\stm32f4xx_hal_msp.c_save
+2023-07-24 13:03:23,593 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\ADCDMA Test\Core\Src\stm32f4xx_hal_msp.c
+2023-07-24 13:03:23,600 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\ADCDMA Test\MXTmpFiles\system.tmp_save
+2023-07-24 13:03:23,660 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\ADCDMA Test\MXTmpFiles\system.tmp
+2023-07-24 13:03:23,692 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\ADCDMA Test\Core\Inc\stm32f4xx_hal_conf.h_save
+2023-07-24 13:03:23,830 [INFO] CodeEngine:335 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\ADCDMA Test\Core\Inc\stm32f4xx_hal_conf.h
+2023-07-24 13:03:23,949 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\ADCDMA Test\Core\Inc\main.h_save
+2023-07-24 13:03:24,259 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\ADCDMA Test\Core\Inc\main.h
+2023-07-24 13:03:24,331 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\ADCDMA Test\Core\Src\main.c_save
+2023-07-24 13:03:24,535 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\ADCDMA Test\Core\Src\main.c
+2023-07-24 13:03:27,654 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 177mS.
+2023-07-24 13:03:27,703 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2023-07-24 13:03:29,825 [INFO] ConfigFileManager:1483 - The Die is : DIE413
+2023-07-24 13:03:35,241 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 7538mS.
+2023-07-24 13:03:35,241 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2023-07-24 13:03:35,243 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.

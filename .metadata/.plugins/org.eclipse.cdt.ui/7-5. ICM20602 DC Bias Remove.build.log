@@ -1,0 +1,108 @@
+18:17:02 **** Incremental Build of configuration Debug for project 7-5. ICM20602 DC Bias Remove ****
+make -j12 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F405xx -DUSE_FULL_LL_DRIVER -c -I../Core/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -u _printf_float -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Core/Src/main.o"
+In file included from ../Core/Src/main.c:34:
+../Core/Inc/ICM20602.h:62: warning: "CHIP_SELECT" redefined
+   62 | #define CHIP_SELECT(ICM20602)  LL_GPIO_ResetOutputPin(ICM20602_SPI_CS_PORT, ICM20602_SPI_CS_PIN)
+      | 
+In file included from ../Core/Src/main.c:32:
+../Core/Inc/BNO080.h:85: note: this is the location of the previous definition
+   85 | #define CHIP_SELECT(BNO080)  LL_GPIO_ResetOutputPin(BNO080_SPI_CS_PORT, BNO080_SPI_CS_PIN)
+      | 
+In file included from ../Core/Src/main.c:34:
+../Core/Inc/ICM20602.h:63: warning: "CHIP_DESELECT" redefined
+   63 | #define CHIP_DESELECT(ICM20602)  LL_GPIO_SetOutputPin(ICM20602_SPI_CS_PORT, ICM20602_SPI_CS_PIN)
+      | 
+In file included from ../Core/Src/main.c:32:
+../Core/Inc/BNO080.h:86: note: this is the location of the previous definition
+   86 | #define CHIP_DESELECT(BNO080) LL_GPIO_SetOutputPin(BNO080_SPI_CS_PORT, BNO080_SPI_CS_PIN)
+      | 
+In file included from ../Core/Src/main.c:35:
+../Core/Inc/LPS22HH.h:63: warning: "CHIP_SELECT" redefined
+   63 | #define CHIP_SELECT(LPS22HH)  LL_GPIO_ResetOutputPin(LPS22HH_SPI_CS_PORT, LPS22HH_SPI_CS_PIN)
+      | 
+In file included from ../Core/Src/main.c:34:
+../Core/Inc/ICM20602.h:62: note: this is the location of the previous definition
+   62 | #define CHIP_SELECT(ICM20602)  LL_GPIO_ResetOutputPin(ICM20602_SPI_CS_PORT, ICM20602_SPI_CS_PIN)
+      | 
+In file included from ../Core/Src/main.c:35:
+../Core/Inc/LPS22HH.h:64: warning: "CHIP_DESELECT" redefined
+   64 | #define CHIP_DESELECT(LPS22HH)  LL_GPIO_SetOutputPin(LPS22HH_SPI_CS_PORT, LPS22HH_SPI_CS_PIN)
+      | 
+In file included from ../Core/Src/main.c:34:
+../Core/Inc/ICM20602.h:63: note: this is the location of the previous definition
+   63 | #define CHIP_DESELECT(ICM20602)  LL_GPIO_SetOutputPin(ICM20602_SPI_CS_PORT, ICM20602_SPI_CS_PIN)
+      | 
+In file included from ../Core/Src/main.c:35:
+../Core/Inc/LPS22HH.h:77: warning: "WHO_AM_I" redefined
+   77 | #define WHO_AM_I  0x0F
+      | 
+In file included from ../Core/Src/main.c:34:
+../Core/Inc/ICM20602.h:130: note: this is the location of the previous definition
+  130 | #define WHO_AM_I 0x75 //The default value of the register is 0x12.
+      | 
+In file included from ../Core/Src/main.c:35:
+../Core/Inc/LPS22HH.h:96: warning: "TEMP_OUT_L" redefined
+   96 | #define TEMP_OUT_L  0x2B
+      | 
+In file included from ../Core/Src/main.c:34:
+../Core/Inc/ICM20602.h:109: note: this is the location of the previous definition
+  109 | #define TEMP_OUT_L 0x42
+      | 
+In file included from ../Core/Src/main.c:35:
+../Core/Inc/LPS22HH.h:97: warning: "TEMP_OUT_H" redefined
+   97 | #define TEMP_OUT_H  0x2C
+      | 
+In file included from ../Core/Src/main.c:34:
+../Core/Inc/ICM20602.h:108: note: this is the location of the previous definition
+  108 | #define TEMP_OUT_H 0x41
+      | 
+../Core/Src/main.c: In function 'main':
+../Core/Src/main.c:154:29: warning: passing argument 2 of 'HAL_ADC_Start_DMA' from incompatible pointer type [-Wincompatible-pointer-types]
+  154 |   HAL_ADC_Start_DMA(&hadc1, &adcVal, 1);
+      |                             ^~~~~~~
+      |                             |
+      |                             short unsigned int *
+In file included from ../Core/Inc/stm32f4xx_hal_conf.h:295,
+                 from ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h:29,
+                 from ../Core/Inc/main.h:30,
+                 from ../Core/Src/main.c:20:
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_adc.h:594:72: note: expected 'uint32_t *' {aka 'long unsigned int *'} but argument is of type 'short unsigned int *'
+  594 | HAL_StatusTypeDef HAL_ADC_Start_DMA(ADC_HandleTypeDef* hadc, uint32_t* pData, uint32_t Length);
+      |                                                              ~~~~~~~~~~^~~~~
+../Core/Src/main.c:156:3: warning: implicit declaration of function 'ICM20602_Writebyte' [-Wimplicit-function-declaration]
+  156 |   ICM20602_Writebyte(0x13, (gyro_x_offset * -2)>>8);
+      |   ^~~~~~~~~~~~~~~~~~
+../Core/Src/main.c:99:16: warning: unused variable 'buf_write' [-Wunused-variable]
+   99 |  unsigned char buf_write[16] = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16};
+      |                ^~~~~~~~~
+../Core/Src/main.c:98:17: warning: unused variable 'buf_read' [-Wunused-variable]
+   98 |   unsigned char buf_read[16] = {0};
+      |                 ^~~~~~~~
+../Core/Src/main.c:97:8: warning: unused variable 'quatRadianAccuracy' [-Wunused-variable]
+   97 |  float quatRadianAccuracy;
+      |        ^~~~~~~~~~~~~~~~~~
+../Core/Src/main.c:96:8: warning: unused variable 'Q' [-Wunused-variable]
+   96 |  float Q[4];
+      |        ^
+../Core/Src/main.c: In function 'BNO080_Calibration':
+../Core/Src/main.c:447:10: warning: unused variable 'quatK' [-Wunused-variable]
+  447 |    float quatK = BNO080_getQuatK();
+      |          ^~~~~
+../Core/Src/main.c:446:10: warning: unused variable 'quatJ' [-Wunused-variable]
+  446 |    float quatJ = BNO080_getQuatJ();
+      |          ^~~~~
+arm-none-eabi-gcc -o "7-5. ICM20602 DC Bias Remove.elf" @"objects.list"   -mcpu=cortex-m4 -T"C:\Users\hyeon\Desktop\STM32_Workspace\7-5. ICM20602 DC Bias Remove\STM32F405RGTX_FLASH.ld" --specs=nosys.specs -Wl,-Map="7-5. ICM20602 DC Bias Remove.map" -Wl,--gc-sections -static -u _printf_float --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: 7-5. ICM20602 DC Bias Remove.elf
+ 
+arm-none-eabi-size   7-5.\ ICM20602\ DC\ Bias\ Remove.elf 
+arm-none-eabi-objdump -h -S  7-5.\ ICM20602\ DC\ Bias\ Remove.elf  > "7-5. ICM20602 DC Bias Remove.list"
+   text	   data	    bss	    dec	    hex	filename
+  41360	    484	   2100	  43944	   aba8	7-5. ICM20602 DC Bias Remove.elf
+Finished building: default.size.stdout
+ 
+Finished building: 7-5. ICM20602 DC Bias Remove.list
+ 
+
+18:17:04 Build Finished. 0 errors, 15 warnings. (took 1s.214ms)
+

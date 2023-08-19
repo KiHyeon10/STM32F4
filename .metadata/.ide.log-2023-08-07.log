@@ -1,0 +1,57 @@
+2023-08-07 14:04:15,343 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 619027560 Bytes (1040187392)
+2023-08-07 14:04:17,132 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 639472744 Bytes (1040187392)
+2023-08-07 14:04:23,186 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 560044384 Bytes (1040187392)
+2023-08-07 14:04:26,555 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SPI
+2023-08-07 14:04:26,555 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SPI
+2023-08-07 14:04:26,555 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8
+2023-08-07 14:04:26,555 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-08-07 14:04:26,555 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-08-07 14:04:26,556 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2023-08-07 14:04:26,556 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-08-07 14:04:26,593 [INFO] CodeGenerator:793 - code generatio: config db path: C:\ST\STM32CubeIDE_1.12.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.8.1.202304191431\\db\
+2023-08-07 14:04:28,587 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\2-2. ICM20602\MXTmpFiles\license.tmp_save
+2023-08-07 14:04:28,773 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\2-2. ICM20602\MXTmpFiles\license.tmp
+2023-08-07 14:04:29,123 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\2-2. ICM20602\Core\Src\gpio.c_save
+2023-08-07 14:04:29,239 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\2-2. ICM20602\Core\Src\gpio.c
+2023-08-07 14:04:29,256 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\2-2. ICM20602\Core\Inc\gpio.h_save
+2023-08-07 14:04:29,384 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\2-2. ICM20602\Core\Inc\gpio.h
+2023-08-07 14:04:30,302 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\2-2. ICM20602\Core\Src\spi.c_save
+2023-08-07 14:04:30,516 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\2-2. ICM20602\Core\Src\spi.c
+2023-08-07 14:04:30,527 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\2-2. ICM20602\Core\Inc\spi.h_save
+2023-08-07 14:04:30,607 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\2-2. ICM20602\Core\Inc\spi.h
+2023-08-07 14:04:30,625 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\2-2. ICM20602\Core\Src\tim.c_save
+2023-08-07 14:04:30,893 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\2-2. ICM20602\Core\Src\tim.c
+2023-08-07 14:04:30,898 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\2-2. ICM20602\Core\Inc\tim.h_save
+2023-08-07 14:04:30,986 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\2-2. ICM20602\Core\Inc\tim.h
+2023-08-07 14:04:31,004 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\2-2. ICM20602\Core\Src\usart.c_save
+2023-08-07 14:04:31,118 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\2-2. ICM20602\Core\Src\usart.c
+2023-08-07 14:04:31,123 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\2-2. ICM20602\Core\Inc\usart.h_save
+2023-08-07 14:04:31,215 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\2-2. ICM20602\Core\Inc\usart.h
+2023-08-07 14:04:31,241 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\2-2. ICM20602\Core\Src\stm32f4xx_it.c_save
+2023-08-07 14:04:31,419 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\2-2. ICM20602\Core\Src\stm32f4xx_it.c
+2023-08-07 14:04:31,444 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\2-2. ICM20602\Core\Inc\stm32f4xx_it.h_save
+2023-08-07 14:04:31,535 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\2-2. ICM20602\Core\Inc\stm32f4xx_it.h
+2023-08-07 14:04:31,599 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\2-2. ICM20602\Core\Src\stm32f4xx_hal_msp.c_save
+2023-08-07 14:04:31,729 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\2-2. ICM20602\Core\Src\stm32f4xx_hal_msp.c
+2023-08-07 14:04:31,737 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\2-2. ICM20602\MXTmpFiles\system.tmp_save
+2023-08-07 14:04:31,801 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\2-2. ICM20602\MXTmpFiles\system.tmp
+2023-08-07 14:04:31,813 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\2-2. ICM20602\Core\Inc\stm32_assert.h_save
+2023-08-07 14:04:31,870 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\2-2. ICM20602\Core\Inc\stm32_assert.h
+2023-08-07 14:04:31,896 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\2-2. ICM20602\Core\Inc\stm32f4xx_hal_conf.h_save
+2023-08-07 14:04:31,983 [INFO] CodeEngine:335 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\2-2. ICM20602\Core\Inc\stm32f4xx_hal_conf.h
+2023-08-07 14:04:32,133 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\2-2. ICM20602\Core\Inc\main.h_save
+2023-08-07 14:04:32,232 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\2-2. ICM20602\Core\Inc\main.h
+2023-08-07 14:04:32,255 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\2-2. ICM20602\Core\Src\main.c_save
+2023-08-07 14:04:32,437 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\2-2. ICM20602\Core\Src\main.c
+2023-08-07 14:04:33,665 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 715mS.
+2023-08-07 14:04:36,855 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2023-08-07 14:04:38,251 [INFO] ConfigFileManager:1483 - The Die is : DIE413
+2023-08-07 14:04:38,263 [INFO] ApiDbMcu:507 - Load IP Config File for FATFS
+2023-08-07 14:04:38,276 [INFO] ApiDbMcu:507 - Load IP Config File for FREERTOS
+2023-08-07 14:04:38,288 [INFO] ApiDbMcu:507 - Load IP Config File for LIBJPEG
+2023-08-07 14:04:38,302 [INFO] ApiDbMcu:507 - Load IP Config File for MBEDTLS
+2023-08-07 14:04:38,325 [INFO] ApiDbMcu:507 - Load IP Config File for USB_DEVICE
+2023-08-07 14:04:38,333 [INFO] ApiDbMcu:507 - Load IP Config File for USB_HOST
+2023-08-07 14:04:42,338 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 5483mS.
+2023-08-07 14:04:42,339 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 1mS.
+2023-08-07 14:04:42,342 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.

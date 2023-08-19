@@ -1,0 +1,18 @@
+/*
+ * M8N.c
+ *
+ *  Created on: Aug 13, 2023
+ *      Author: hyeon
+ */
+#include "M8N.h"
+
+unsigned char M8N_UBX_CHKSUM_Check(unsigned char* data, unsigned char len) {
+	unsigned char CK_A = 0, CK_B = 0;
+
+	for(int i = 2; i< len-2; i++) {
+		CK_A = CK_A + data[i];
+		CK_B = CK_B + CK_A;
+	}
+
+	return(CK_A == data[len-2] && CK_B == data[len-1]);
+}

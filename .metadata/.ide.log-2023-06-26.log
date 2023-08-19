@@ -1,0 +1,212 @@
+2023-06-26 21:03:21,943 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 481109208 Bytes (615514112)
+2023-06-26 21:03:26,832 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 317758104 Bytes (615514112)
+2023-06-26 21:03:27,095 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-06-26 21:03:27,095 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-06-26 21:03:27,095 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-06-26 21:03:27,097 [INFO] CodeGenerator:793 - code generatio: config db path: C:\ST\STM32CubeIDE_1.12.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.8.1.202304191431\\db\
+2023-06-26 21:03:27,294 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\test\MXTmpFiles\license.tmp_save
+2023-06-26 21:03:27,403 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\test\MXTmpFiles\license.tmp
+2023-06-26 21:03:27,471 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\test\MXTmpFiles\gpio.tmp_save
+2023-06-26 21:03:27,575 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\test\MXTmpFiles\gpio.tmp
+2023-06-26 21:03:27,601 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\test\Core\Src\stm32f4xx_it.c_save
+2023-06-26 21:03:27,892 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\test\Core\Src\stm32f4xx_it.c
+2023-06-26 21:03:27,908 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\test\Core\Inc\stm32f4xx_it.h_save
+2023-06-26 21:03:27,984 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\test\Core\Inc\stm32f4xx_it.h
+2023-06-26 21:03:28,030 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\test\Core\Src\stm32f4xx_hal_msp.c_save
+2023-06-26 21:03:28,136 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\test\Core\Src\stm32f4xx_hal_msp.c
+2023-06-26 21:03:28,144 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\test\MXTmpFiles\system.tmp_save
+2023-06-26 21:03:28,207 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\test\MXTmpFiles\system.tmp
+2023-06-26 21:03:28,235 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\test\Core\Inc\stm32f4xx_hal_conf.h_save
+2023-06-26 21:03:28,321 [INFO] CodeEngine:335 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\test\Core\Inc\stm32f4xx_hal_conf.h
+2023-06-26 21:03:28,373 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\test\Core\Inc\main.h_save
+2023-06-26 21:03:28,464 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\test\Core\Inc\main.h
+2023-06-26 21:03:28,483 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\test\Core\Src\main.c_save
+2023-06-26 21:03:28,591 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\test\Core\Src\main.c
+2023-06-26 21:03:29,310 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 206mS.
+2023-06-26 21:03:29,312 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2023-06-26 21:03:29,671 [INFO] ConfigFileManager:1483 - The Die is : DIE413
+2023-06-26 21:03:31,475 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 2163mS.
+2023-06-26 21:03:31,476 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2023-06-26 21:03:31,479 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2023-06-26 21:04:08,283 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 339848848 Bytes (656408576)
+2023-06-26 21:04:08,614 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-06-26 21:04:08,614 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-06-26 21:04:08,614 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-06-26 21:04:08,616 [INFO] CodeGenerator:793 - code generatio: config db path: C:\ST\STM32CubeIDE_1.12.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.8.1.202304191431\\db\
+2023-06-26 21:04:08,811 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\test\MXTmpFiles\license.tmp_save
+2023-06-26 21:04:08,893 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\test\MXTmpFiles\license.tmp
+2023-06-26 21:04:08,910 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\test\MXTmpFiles\gpio.tmp_save
+2023-06-26 21:04:08,990 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\test\MXTmpFiles\gpio.tmp
+2023-06-26 21:04:09,009 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\test\Core\Src\stm32f4xx_it.c_save
+2023-06-26 21:04:09,075 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\test\Core\Src\stm32f4xx_it.c
+2023-06-26 21:04:09,080 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\test\Core\Inc\stm32f4xx_it.h_save
+2023-06-26 21:04:09,132 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\test\Core\Inc\stm32f4xx_it.h
+2023-06-26 21:04:09,156 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\test\Core\Src\stm32f4xx_hal_msp.c_save
+2023-06-26 21:04:09,229 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\test\Core\Src\stm32f4xx_hal_msp.c
+2023-06-26 21:04:09,233 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\test\MXTmpFiles\system.tmp_save
+2023-06-26 21:04:09,276 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\test\MXTmpFiles\system.tmp
+2023-06-26 21:04:09,288 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\test\Core\Inc\stm32f4xx_hal_conf.h_save
+2023-06-26 21:04:09,390 [INFO] CodeEngine:335 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\test\Core\Inc\stm32f4xx_hal_conf.h
+2023-06-26 21:04:09,431 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\test\Core\Inc\main.h_save
+2023-06-26 21:04:09,521 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\test\Core\Inc\main.h
+2023-06-26 21:04:09,534 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\test\Core\Src\main.c_save
+2023-06-26 21:04:09,683 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\test\Core\Src\main.c
+2023-06-26 21:04:10,197 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 108mS.
+2023-06-26 21:04:10,199 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2023-06-26 21:04:10,553 [INFO] ConfigFileManager:1483 - The Die is : DIE413
+2023-06-26 21:04:11,707 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 1508mS.
+2023-06-26 21:04:11,708 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2023-06-26 21:04:11,710 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2023-06-26 21:05:30,403 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 368338968 Bytes (730857472)
+2023-06-26 21:05:30,649 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-06-26 21:05:30,650 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-06-26 21:05:30,650 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-06-26 21:05:30,651 [INFO] CodeGenerator:793 - code generatio: config db path: C:\ST\STM32CubeIDE_1.12.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.8.1.202304191431\\db\
+2023-06-26 21:05:30,837 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\test\MXTmpFiles\license.tmp_save
+2023-06-26 21:05:30,906 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\test\MXTmpFiles\license.tmp
+2023-06-26 21:05:30,919 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\test\MXTmpFiles\gpio.tmp_save
+2023-06-26 21:05:30,994 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\test\MXTmpFiles\gpio.tmp
+2023-06-26 21:05:31,010 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\test\Core\Src\stm32f4xx_it.c_save
+2023-06-26 21:05:31,091 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\test\Core\Src\stm32f4xx_it.c
+2023-06-26 21:05:31,096 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\test\Core\Inc\stm32f4xx_it.h_save
+2023-06-26 21:05:31,148 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\test\Core\Inc\stm32f4xx_it.h
+2023-06-26 21:05:31,175 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\test\Core\Src\stm32f4xx_hal_msp.c_save
+2023-06-26 21:05:31,245 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\test\Core\Src\stm32f4xx_hal_msp.c
+2023-06-26 21:05:31,248 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\test\MXTmpFiles\system.tmp_save
+2023-06-26 21:05:31,293 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\test\MXTmpFiles\system.tmp
+2023-06-26 21:05:31,308 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\test\Core\Inc\stm32f4xx_hal_conf.h_save
+2023-06-26 21:05:31,399 [INFO] CodeEngine:335 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\test\Core\Inc\stm32f4xx_hal_conf.h
+2023-06-26 21:05:31,436 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\test\Core\Inc\main.h_save
+2023-06-26 21:05:31,502 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\test\Core\Inc\main.h
+2023-06-26 21:05:31,513 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\test\Core\Src\main.c_save
+2023-06-26 21:05:31,587 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\test\Core\Src\main.c
+2023-06-26 21:05:32,201 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 114mS.
+2023-06-26 21:05:32,203 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2023-06-26 21:05:32,396 [INFO] ConfigFileManager:1483 - The Die is : DIE413
+2023-06-26 21:05:33,571 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 1368mS.
+2023-06-26 21:05:33,572 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2023-06-26 21:05:33,576 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2023-06-26 21:39:54,130 [INFO] MainUpdater:2854 - connection check result : 10
+2023-06-26 21:39:54,179 [INFO] MainUpdater:3548 - Updater definition file requires update
+2023-06-26 21:39:54,423 [INFO] ServerAccessManage:473 - Download File updaters.zip
+2023-06-26 21:39:54,729 [INFO] FileExtend:240 - Unzip File : updaters.zip
+2023-06-26 21:39:54,729 [INFO] FileExtend:255 - Standard Zip Deflate
+2023-06-26 21:39:55,310 [INFO] ServerAccessManage:473 - Download File PacksControlFlags.xml
+2023-06-26 21:39:55,505 [INFO] ServerAccessManage:473 - Download File cubemx.pidx
+2023-06-26 21:39:55,539 [INFO] ThirdPartyModel:298 - Start build external matchings
+2023-06-26 21:39:56,040 [INFO] ThirdPartyModel:316 - End build external matchings
+2023-06-26 21:39:56,047 [INFO] LoadServerUpdatesThread:373 - End of LoadServerUpdate Thread
+2023-06-26 21:39:56,084 [INFO] CheckServerUpdateThread:120 - End of CheckServer Thread
+2023-06-26 21:40:28,697 [INFO] ServerAccessManage:473 - Download File updaters.zip
+2023-06-26 21:40:29,019 [INFO] FileExtend:240 - Unzip File : updaters.zip
+2023-06-26 21:40:29,020 [INFO] FileExtend:255 - Standard Zip Deflate
+2023-06-26 21:40:29,395 [INFO] ServerAccessManage:473 - Download File PacksControlFlags.xml
+2023-06-26 21:40:29,608 [INFO] ServerAccessManage:473 - Download File cubemx.pidx
+2023-06-26 21:40:30,065 [INFO] ServerAccessManage:473 - Download File STMicroelectronics.FP-ATR-ASTRA1.pdsc
+2023-06-26 21:40:30,724 [INFO] ServerAccessManage:473 - Download File STMicroelectronics.FP-ATR-SIGFOX1.pdsc
+2023-06-26 21:40:31,467 [INFO] ServerAccessManage:473 - Download File STMicroelectronics.FP-SNS-FLIGHT1.pdsc
+2023-06-26 21:40:31,980 [INFO] ServerAccessManage:473 - Download File STMicroelectronics.FP-SNS-MOTENV1.pdsc
+2023-06-26 21:40:32,511 [INFO] ServerAccessManage:473 - Download File STMicroelectronics.X-CUBE-AI.pdsc
+2023-06-26 21:40:35,238 [INFO] ServerAccessManage:473 - Download File STMicroelectronics.X-CUBE-ALS.pdsc
+2023-06-26 21:40:36,344 [INFO] ServerAccessManage:473 - Download File STMicroelectronics.X-CUBE-BLE1.pdsc
+2023-06-26 21:40:39,783 [ERROR] ServerAccessManage:1089 - Problem, file not found on Server
+2023-06-26 21:40:39,967 [INFO] ServerAccessManage:473 - Download File STMicroelectronics.X-CUBE-BLE2.pdsc
+2023-06-26 21:40:41,560 [INFO] ServerAccessManage:473 - Download File STMicroelectronics.X-CUBE-BLEMGR.pdsc
+2023-06-26 21:40:42,678 [INFO] ServerAccessManage:473 - Download File STMicroelectronics.X-CUBE-DISPLAY.pdsc
+2023-06-26 21:40:43,882 [INFO] ServerAccessManage:473 - Download File STMicroelectronics.X-CUBE-EEPRMA1.pdsc
+2023-06-26 21:40:44,514 [ERROR] ServerAccessManage:1089 - Problem, file not found on Server
+2023-06-26 21:40:45,172 [INFO] ServerAccessManage:473 - Download File STMicroelectronics.X-CUBE-FREERTOS.pdsc
+2023-06-26 21:40:45,684 [INFO] ServerAccessManage:473 - Download File STMicroelectronics.X-CUBE-GNSS1.pdsc
+2023-06-26 21:40:47,454 [ERROR] ServerAccessManage:1089 - Problem, file not found on Server
+2023-06-26 21:40:47,910 [ERROR] ServerAccessManage:1089 - Problem, file not found on Server
+2023-06-26 21:40:48,384 [ERROR] ServerAccessManage:1089 - Problem, file not found on Server
+2023-06-26 21:40:48,838 [ERROR] ServerAccessManage:1089 - Problem, file not found on Server
+2023-06-26 21:40:49,273 [ERROR] ServerAccessManage:1089 - Problem, file not found on Server
+2023-06-26 21:40:49,740 [ERROR] ServerAccessManage:1089 - Problem, file not found on Server
+2023-06-26 21:40:49,916 [INFO] ServerAccessManage:473 - Download File STMicroelectronics.X-CUBE-ISPU.pdsc
+2023-06-26 21:40:50,534 [INFO] ServerAccessManage:473 - Download File STMicroelectronics.X-CUBE-MEMS1.pdsc
+2023-06-26 21:40:54,730 [INFO] ServerAccessManage:473 - Download File STMicroelectronics.X-CUBE-NFC4.pdsc
+2023-06-26 21:40:57,426 [INFO] ServerAccessManage:473 - Download File STMicroelectronics.X-CUBE-NFC7.pdsc
+2023-06-26 21:40:58,273 [INFO] ServerAccessManage:473 - Download File STMicroelectronics.X-CUBE-SFXS2LP1.pdsc
+2023-06-26 21:41:00,210 [INFO] ServerAccessManage:473 - Download File STMicroelectronics.X-CUBE-SUBG2.pdsc
+2023-06-26 21:41:04,578 [INFO] ServerAccessManage:473 - Download File STMicroelectronics.X-CUBE-SMBUS.pdsc
+2023-06-26 21:41:05,195 [ERROR] ServerAccessManage:1089 - Problem, file not found on Server
+2023-06-26 21:41:05,377 [INFO] ServerAccessManage:473 - Download File STMicroelectronics.X-CUBE-TOF1.pdsc
+2023-06-26 21:41:07,854 [ERROR] ServerAccessManage:1089 - Problem, file not found on Server
+2023-06-26 21:41:08,184 [INFO] ServerAccessManage:473 - Download File STMicroelectronics.X-CUBE-TOUCHGFX.pdsc
+2023-06-26 21:41:11,708 [INFO] ServerAccessManage:473 - Download File STMicroelectronics.X-CUBE-ALGOBUILD.pdsc
+2023-06-26 21:41:14,268 [INFO] ServerAccessManage:473 - Download File STMicroelectronics.X-CUBE-AZRTOS-H7.pdsc
+2023-06-26 21:41:15,920 [INFO] ServerAccessManage:473 - Download File STMicroelectronics.X-CUBE-AZRTOS-F4.pdsc
+2023-06-26 21:41:17,387 [INFO] ServerAccessManage:473 - Download File STMicroelectronics.X-CUBE-AZRTOS-F7.pdsc
+2023-06-26 21:41:18,314 [INFO] ServerAccessManage:473 - Download File STMicroelectronics.X-CUBE-AZRTOS-L4.pdsc
+2023-06-26 21:41:18,951 [INFO] ServerAccessManage:473 - Download File STMicroelectronics.X-CUBE-AZRTOS-L5.pdsc
+2023-06-26 21:41:19,902 [INFO] ServerAccessManage:473 - Download File STMicroelectronics.X-CUBE-AZRTOS-G0.pdsc
+2023-06-26 21:41:21,074 [INFO] ServerAccessManage:473 - Download File STMicroelectronics.X-CUBE-AZRTOS-G4.pdsc
+2023-06-26 21:41:22,013 [INFO] ServerAccessManage:473 - Download File STMicroelectronics.X-CUBE-AZRTOS-WB.pdsc
+2023-06-26 21:41:22,720 [INFO] ServerAccessManage:473 - Download File STMicroelectronics.X-CUBE-AZRTOS-WL.pdsc
+2023-06-26 21:41:24,117 [INFO] ServerAccessManage:473 - Download File wolfSSL.I-CUBE-wolfSSL.pdsc
+2023-06-26 21:41:28,342 [ERROR] ServerAccessManage:1089 - Problem, file not found on Server
+2023-06-26 21:41:28,801 [ERROR] ServerAccessManage:1089 - Problem, file not found on Server
+2023-06-26 21:41:29,263 [ERROR] ServerAccessManage:1089 - Problem, file not found on Server
+2023-06-26 21:41:30,227 [ERROR] ServerAccessManage:1096 - Problem, Http access forbiden
+2023-06-26 21:41:30,227 [ERROR] ServerAccessManage:651 - Problem, Http access forbiden : RoweBots.I-CUBE-UNISONRTOS.pdsc.
+2023-06-26 21:41:31,658 [INFO] ServerAccessManage:473 - Download File SEGGER.I-CUBE-embOS.pdsc
+2023-06-26 21:41:35,286 [INFO] ServerAccessManage:473 - Download File portGmbH.I-Cube-SoM-uGOAL.pdsc
+2023-06-26 21:41:37,944 [ERROR] ServerAccessManage:1089 - Problem, file not found on Server
+2023-06-26 21:41:38,196 [ERROR] ServerAccessManage:1089 - Problem, file not found on Server
+2023-06-26 21:41:38,451 [ERROR] ServerAccessManage:1089 - Problem, file not found on Server
+2023-06-26 21:41:39,877 [INFO] ServerAccessManage:473 - Download File emotas.I-CUBE-CANOPEN.pdsc
+2023-06-26 21:41:41,560 [INFO] ServerAccessManage:473 - Download File WES.I-CUBE-Cesium.pdsc
+2023-06-26 21:41:43,300 [ERROR] ServerAccessManage:1089 - Problem, file not found on Server
+2023-06-26 21:41:43,901 [ERROR] ServerAccessManage:1089 - Problem, file not found on Server
+2023-06-26 21:41:43,915 [WARN] Engine:547 - Do no try to populate pack already in database: STMicroelectronics.FP-ATR-ASTRA1.2.0.0
+2023-06-26 21:41:43,916 [WARN] Engine:547 - Do no try to populate pack already in database: STMicroelectronics.FP-ATR-SIGFOX1.3.2.0
+2023-06-26 21:41:43,917 [WARN] Engine:547 - Do no try to populate pack already in database: STMicroelectronics.FP-SNS-FLIGHT1.5.0.1
+2023-06-26 21:41:43,919 [WARN] Engine:547 - Do no try to populate pack already in database: STMicroelectronics.FP-SNS-MOTENV1.4.3.1
+2023-06-26 21:41:43,920 [WARN] Engine:547 - Do no try to populate pack already in database: STMicroelectronics.X-CUBE-AI.8.0.1
+2023-06-26 21:41:43,921 [WARN] Engine:547 - Do no try to populate pack already in database: STMicroelectronics.X-CUBE-ALS.1.0.1
+2023-06-26 21:41:43,922 [WARN] Engine:547 - Do no try to populate pack already in database: STMicroelectronics.X-CUBE-BLE1.6.2.4
+2023-06-26 21:41:43,923 [WARN] Engine:547 - Do no try to populate pack already in database: STMicroelectronics.X-CUBE-BLE2.3.3.0
+2023-06-26 21:41:43,925 [WARN] Engine:547 - Do no try to populate pack already in database: STMicroelectronics.X-CUBE-BLEMGR.2.0.0
+2023-06-26 21:41:43,927 [WARN] Engine:547 - Do no try to populate pack already in database: STMicroelectronics.X-CUBE-DISPLAY.3.0.0
+2023-06-26 21:41:43,928 [WARN] Engine:547 - Do no try to populate pack already in database: STMicroelectronics.X-CUBE-EEPRMA1.4.1.0
+2023-06-26 21:41:43,929 [WARN] Engine:547 - Do no try to populate pack already in database: STMicroelectronics.X-CUBE-FREERTOS.1.0.1
+2023-06-26 21:41:43,930 [WARN] Engine:547 - Do no try to populate pack already in database: STMicroelectronics.X-CUBE-GNSS1.6.0.0
+2023-06-26 21:41:43,931 [WARN] Engine:547 - Do no try to populate pack already in database: STMicroelectronics.X-CUBE-ISPU.1.1.0
+2023-06-26 21:41:43,940 [WARN] Engine:547 - Do no try to populate pack already in database: STMicroelectronics.X-CUBE-MEMS1.9.6.0
+2023-06-26 21:41:43,942 [WARN] Engine:547 - Do no try to populate pack already in database: STMicroelectronics.X-CUBE-NFC4.3.0.0
+2023-06-26 21:41:43,943 [WARN] Engine:547 - Do no try to populate pack already in database: STMicroelectronics.X-CUBE-NFC7.1.0.1
+2023-06-26 21:41:43,944 [WARN] Engine:547 - Do no try to populate pack already in database: STMicroelectronics.X-CUBE-SFXS2LP1.4.0.0
+2023-06-26 21:41:43,947 [WARN] Engine:547 - Do no try to populate pack already in database: STMicroelectronics.X-CUBE-SUBG2.5.0.0
+2023-06-26 21:41:43,948 [WARN] Engine:547 - Do no try to populate pack already in database: STMicroelectronics.X-CUBE-SMBUS.2.1.0
+2023-06-26 21:41:43,950 [WARN] Engine:547 - Do no try to populate pack already in database: STMicroelectronics.X-CUBE-TOF1.3.3.0
+2023-06-26 21:41:43,951 [WARN] Engine:547 - Do no try to populate pack already in database: STMicroelectronics.X-CUBE-TOUCHGFX.4.21.4
+2023-06-26 21:41:43,953 [WARN] Engine:547 - Do no try to populate pack already in database: STMicroelectronics.X-CUBE-ALGOBUILD.1.3.0
+2023-06-26 21:41:43,957 [WARN] Engine:547 - Do no try to populate pack already in database: STMicroelectronics.X-CUBE-AZRTOS-H7.3.1.0
+2023-06-26 21:41:43,963 [WARN] Engine:547 - Do no try to populate pack already in database: STMicroelectronics.X-CUBE-AZRTOS-F4.1.1.0
+2023-06-26 21:41:43,968 [WARN] Engine:547 - Do no try to populate pack already in database: STMicroelectronics.X-CUBE-AZRTOS-F7.1.1.0
+2023-06-26 21:41:43,974 [WARN] Engine:547 - Do no try to populate pack already in database: STMicroelectronics.X-CUBE-AZRTOS-L4.2.0.0
+2023-06-26 21:41:43,978 [WARN] Engine:547 - Do no try to populate pack already in database: STMicroelectronics.X-CUBE-AZRTOS-L5.1.1.0
+2023-06-26 21:41:43,984 [WARN] Engine:547 - Do no try to populate pack already in database: STMicroelectronics.X-CUBE-AZRTOS-G0.1.1.0
+2023-06-26 21:41:43,991 [WARN] Engine:547 - Do no try to populate pack already in database: STMicroelectronics.X-CUBE-AZRTOS-G4.2.0.0
+2023-06-26 21:41:43,994 [WARN] Engine:547 - Do no try to populate pack already in database: STMicroelectronics.X-CUBE-AZRTOS-WB.1.1.0
+2023-06-26 21:41:43,997 [WARN] Engine:547 - Do no try to populate pack already in database: STMicroelectronics.X-CUBE-AZRTOS-WL.2.0.0
+2023-06-26 21:41:43,998 [WARN] Engine:547 - Do no try to populate pack already in database: wolfSSL.I-CUBE-wolfSSL.5.6.0
+2023-06-26 21:41:44,000 [WARN] Engine:547 - Do no try to populate pack already in database: SEGGER.I-CUBE-embOS.1.3.1
+2023-06-26 21:41:44,002 [WARN] Engine:547 - Do no try to populate pack already in database: portGmbH.I-Cube-SoM-uGOAL.1.1.0
+2023-06-26 21:41:44,007 [WARN] Engine:547 - Do no try to populate pack already in database: emotas.I-CUBE-CANOPEN.1.1.3
+2023-06-26 21:41:44,008 [WARN] Engine:547 - Do no try to populate pack already in database: WES.I-CUBE-Cesium.1.3.0
+2023-06-26 21:41:44,008 [INFO] PopulateThirdPartyThread:66 - Ending populate Thread
+2023-06-26 21:41:44,009 [INFO] ThirdPartyModel:298 - Start build external matchings
+2023-06-26 21:41:44,085 [INFO] CheckServerUpdateThread:120 - End of CheckServer Thread
+2023-06-26 21:41:44,308 [INFO] ThirdPartyModel:316 - End build external matchings
+2023-06-26 21:41:44,311 [INFO] LoadServerUpdatesThread:373 - End of LoadServerUpdate Thread
+2023-06-26 21:44:59,585 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,486x222,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-06-26 21:51:44,550 [INFO] Activator:176 - 
+
+
+2023-06-26 21:51:44,551 [INFO] Activator:177 - !SESSION log4j initialized
+2023-06-26 21:51:50,755 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-06-26 21:52:12,162 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2023-06-26 21:52:12,162 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] SLF4J: Defaulting to no-operation (NOP) logger implementation
+2023-06-26 21:52:12,165 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.

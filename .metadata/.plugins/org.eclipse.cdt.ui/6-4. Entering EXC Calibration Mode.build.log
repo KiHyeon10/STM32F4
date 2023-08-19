@@ -1,0 +1,10 @@
+01:36:32 **** Incremental Build of configuration Debug for project 6-4. Entering EXC Calibration Mode ****
+make -j12 all 
+arm-none-eabi-size   6-4.\ Entering\ EXC\ Calibration\ Mode.elf 
+   text	   data	    bss	    dec	    hex	filename
+  35352	    484	   1836	  37672	   9328	6-4. Entering EXC Calibration Mode.elf
+Finished building: default.size.stdout
+ 
+
+01:36:32 Build Finished. 0 errors, 0 warnings. (took 303ms)
+

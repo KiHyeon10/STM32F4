@@ -1,0 +1,7 @@
+../Core/Src/CLCD.c:3:6:CLCD_GPIO_Init	32	static
+../Core/Src/CLCD.c:36:6:CLCD_Write_Instruction	16	static
+../Core/Src/CLCD.c:67:6:CLCD_Write_Display	16	static
+../Core/Src/CLCD.c:99:6:CLCD_Gotoxy	16	static
+../Core/Src/CLCD.c:111:6:CLCD_Puts	24	static
+../Core/Src/CLCD.c:123:6:CLCD_Init	8	static
+../Core/Src/CLCD.c:137:6:CLCD_Clear	8	static

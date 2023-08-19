@@ -1,0 +1,17 @@
+18:52:24 **** Incremental Build of configuration Debug for project 3-1. M8N_NMEA ****
+make -j12 all 
+arm-none-eabi-gcc "../Core/Src/usart.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F405xx -DUSE_FULL_LL_DRIVER -c -I../Core/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/usart.d" -MT"Core/Src/usart.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Core/Src/usart.o"
+arm-none-eabi-gcc -o "3-1. M8N_NMEA.elf" @"objects.list"   -mcpu=cortex-m4 -T"C:\Users\hyeon\Desktop\STM32_Workspace\3-1. M8N_NMEA\STM32F405RGTX_FLASH.ld" --specs=nosys.specs -Wl,-Map="3-1. M8N_NMEA.map" -Wl,--gc-sections -static -u _printf_float --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: 3-1. M8N_NMEA.elf
+ 
+arm-none-eabi-size   3-1.\ M8N_NMEA.elf 
+arm-none-eabi-objdump -h -S  3-1.\ M8N_NMEA.elf  > "3-1. M8N_NMEA.list"
+   text	   data	    bss	    dec	    hex	filename
+  32040	    484	   1732	  34256	   85d0	3-1. M8N_NMEA.elf
+Finished building: default.size.stdout
+ 
+Finished building: 3-1. M8N_NMEA.list
+ 
+
+18:52:26 Build Finished. 0 errors, 0 warnings. (took 1s.295ms)
+

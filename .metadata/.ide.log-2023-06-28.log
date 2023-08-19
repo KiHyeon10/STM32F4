@@ -1,0 +1,53 @@
+2023-07-02 19:43:53,555 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 217519728 Bytes (577765376)
+2023-07-02 19:43:57,224 [INFO] ServerAccessManage:473 - Download File stm32cube_fw_f4_v1270.zip
+2023-07-02 19:44:01,642 [ERROR] ServerAccessManage:651 - User Cancel Download : stm32cube_fw_f4_v1270.zip.
+2023-07-02 19:44:01,758 [INFO] LoadServerPackagesThread:196 - End of LoadServerPackages Thread
+2023-07-02 19:44:01,930 [INFO] ThirdPartyModel:298 - Start build external matchings
+2023-07-02 19:44:02,102 [INFO] ThirdPartyModel:316 - End build external matchings
+2023-07-02 19:44:02,102 [INFO] CheckServerUpdateThread:120 - End of CheckServer Thread
+2023-07-02 19:45:04,936 [INFO] ServerAccessManage:473 - Download File stm32cube_fw_f4_v1270.zip
+2023-07-02 19:46:38,360 [INFO] AnalyticsPlugin:368 - Accepted License(s): [FW.F4.1.27.0]
+2023-07-02 19:46:38,360 [INFO] FileExtend:240 - Unzip File : stm32cube_fw_f4_v1270.zip
+2023-07-02 19:46:38,360 [INFO] FileExtend:255 - Standard Zip Deflate
+2023-07-02 19:47:30,123 [INFO] ServerAccessManage:473 - Download File stm32cube_fw_f4_v1271.zip
+2023-07-02 19:47:47,730 [INFO] FileExtend:240 - Unzip File : stm32cube_fw_f4_v1271.zip
+2023-07-02 19:47:47,730 [INFO] FileExtend:255 - Standard Zip Deflate
+2023-07-02 19:47:48,578 [INFO] LoadServerPackagesThread:196 - End of LoadServerPackages Thread
+2023-07-02 19:47:48,719 [INFO] ThirdPartyModel:298 - Start build external matchings
+2023-07-02 19:47:48,719 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 233712712 Bytes (577765376)
+2023-07-02 19:47:48,984 [INFO] ThirdPartyModel:316 - End build external matchings
+2023-07-02 19:47:48,984 [INFO] CheckServerUpdateThread:120 - End of CheckServer Thread
+2023-07-02 19:47:49,205 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-07-02 19:47:49,205 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-07-02 19:47:49,205 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-07-02 19:47:49,205 [INFO] CodeGenerator:793 - code generatio: config db path: C:\ST\STM32CubeIDE_1.12.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.8.1.202304191431\\db\
+2023-07-02 19:47:49,471 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\test\MXTmpFiles\license.tmp_save
+2023-07-02 19:47:50,027 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\test\MXTmpFiles\license.tmp
+2023-07-02 19:47:50,130 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\test\Core\Src\gpio.c_save
+2023-07-02 19:47:50,270 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\test\Core\Src\gpio.c
+2023-07-02 19:47:50,270 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\test\Core\Inc\gpio.h_save
+2023-07-02 19:47:50,364 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\test\Core\Inc\gpio.h
+2023-07-02 19:47:50,380 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\test\Core\Src\stm32f4xx_it.c_save
+2023-07-02 19:47:50,489 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\test\Core\Src\stm32f4xx_it.c
+2023-07-02 19:47:50,505 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\test\Core\Inc\stm32f4xx_it.h_save
+2023-07-02 19:47:50,567 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\test\Core\Inc\stm32f4xx_it.h
+2023-07-02 19:47:50,632 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\test\Core\Src\stm32f4xx_hal_msp.c_save
+2023-07-02 19:47:50,710 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\test\Core\Src\stm32f4xx_hal_msp.c
+2023-07-02 19:47:50,726 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\test\MXTmpFiles\system.tmp_save
+2023-07-02 19:47:50,788 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\test\MXTmpFiles\system.tmp
+2023-07-02 19:47:50,804 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\test\Core\Inc\stm32f4xx_hal_conf.h_save
+2023-07-02 19:47:50,976 [INFO] CodeEngine:335 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\test\Core\Inc\stm32f4xx_hal_conf.h
+2023-07-02 19:47:51,038 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\test\Core\Inc\main.h_save
+2023-07-02 19:47:51,138 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\test\Core\Inc\main.h
+2023-07-02 19:47:51,158 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\hyeon\Desktop\STM32_Workspace\test\Core\Src\main.c_save
+2023-07-02 19:47:51,275 [INFO] CodeEngine:279 - Generated code: C:\Users\hyeon\Desktop\STM32_Workspace\test\Core\Src\main.c
+2023-07-02 19:47:51,855 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 125mS.
+2023-07-02 19:47:51,886 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2023-07-02 19:47:52,232 [INFO] ConfigFileManager:1483 - The Die is : DIE413
+2023-07-02 19:47:52,248 [INFO] ApiDbMcu:507 - Load IP Config File for FATFS
+2023-07-02 19:47:52,263 [INFO] ApiDbMcu:507 - Load IP Config File for FREERTOS
+2023-07-02 19:47:52,263 [INFO] ApiDbMcu:507 - Load IP Config File for LIBJPEG
+2023-07-02 19:47:52,279 [INFO] ApiDbMcu:507 - Load IP Config File for LWIP
+2023-07-02 19:47:52,295 [INFO] ApiDbMcu:507 - Load IP Config File for MBEDTLS
+2023-07-02 19:47:52,295 [INFO] ApiDbMcu:507 - Load IP Config File for USB_DEVICE
+2023-07-02 19:47:52,310 [INFO] ApiDbMcu:507 - Load IP Config File for USB_HOST
