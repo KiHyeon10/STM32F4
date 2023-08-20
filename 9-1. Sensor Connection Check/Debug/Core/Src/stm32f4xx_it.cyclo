@@ -1,0 +1,16 @@
+stm32f4xx_ll_usart.h:1792:26:LL_USART_IsActiveFlag_RXNE	1
+stm32f4xx_ll_usart.h:1979:22:LL_USART_ClearFlag_RXNE	1
+stm32f4xx_ll_usart.h:2403:25:LL_USART_ReceiveData8	1
+stm32f4xx_it.c:82:6:NMI_Handler	1
+stm32f4xx_it.c:97:6:HardFault_Handler	1
+stm32f4xx_it.c:112:6:MemManage_Handler	1
+stm32f4xx_it.c:127:6:BusFault_Handler	1
+stm32f4xx_it.c:142:6:UsageFault_Handler	1
+stm32f4xx_it.c:157:6:SVC_Handler	1
+stm32f4xx_it.c:170:6:DebugMon_Handler	1
+stm32f4xx_it.c:183:6:PendSV_Handler	1
+stm32f4xx_it.c:196:6:SysTick_Handler	1
+stm32f4xx_it.c:217:6:UART4_IRQHandler	8
+stm32f4xx_it.c:264:6:UART5_IRQHandler	8
+stm32f4xx_it.c:314:6:DMA2_Stream0_IRQHandler	1
+stm32f4xx_it.c:328:6:USART6_IRQHandler	2

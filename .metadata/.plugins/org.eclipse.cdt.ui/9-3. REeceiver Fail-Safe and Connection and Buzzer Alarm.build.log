@@ -1,0 +1,10 @@
+18:56:02 **** Incremental Build of configuration Debug for project 9-3. REeceiver Fail-Safe and Connection and Buzzer Alarm ****
+make -j12 all 
+arm-none-eabi-size   9-3.\ REeceiver\ Fail-Safe\ and\ Connection\ and\ Buzzer\ Alarm.elf 
+   text	   data	    bss	    dec	    hex	filename
+  52524	    488	   2232	  55244	   d7cc	9-3. REeceiver Fail-Safe and Connection and Buzzer Alarm.elf
+Finished building: default.size.stdout
+ 
+
+18:56:02 Build Finished. 0 errors, 0 warnings. (took 349ms)
+

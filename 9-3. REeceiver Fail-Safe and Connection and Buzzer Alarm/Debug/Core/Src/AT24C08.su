@@ -1,0 +1,6 @@
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_gpio.h:881:22:LL_GPIO_SetOutputPin	16	static
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_gpio.h:910:22:LL_GPIO_ResetOutputPin	16	static
+../Core/Src/AT24C08.c:10:6:AT24C08_Page_Write	40	static
+../Core/Src/AT24C08.c:20:6:AT24C08_Page_Read	40	static
+../Core/Src/AT24C08.c:27:6:EP_PIDGain_Write	56	static
+../Core/Src/AT24C08.c:83:15:EP_PIDGain_Read	56	static
